@@ -1,0 +1,21 @@
+name,field,gpa,expected_salary,funding_needed
+Alice,Computer Science,3.81,84226,40284
+Bob,Biology,3.41,112115,21151
+Charlie,Art,3.97,103034,29795
+Diana,Business,3.12,62233,34657
+Ethan,Biology,3.57,118868,29031
+Fiona,Art,2.94,77166,36136
+George,Biology,3.41,68178,42937
+Hannah,Computer Science,3.83,96446,30207
+Ian,Biology,3.65,114975,23175
+Jade,Data Science,3.6,65969,23357
+Karl,Data Science,2.89,69449,48160
+Laura,Computer Science,3.75,56759,18047
+Mike,Computer Science,2.92,70014,33801
+Nina,Engineering,3.11,97015,18405
+Oliver,Business,3.74,110488,10822
+Paula,Art,2.94,58644,24480
+Quinn,Mathematics,2.57,115842,13984
+Rachel,Biology,3.32,83932,45807
+Steve,Mathematics,2.67,100337,22682
+Tina,Biology,2.66,76409,13495
