@@ -1,0 +1,501 @@
+student_id,status,program_duration_months,program_progress,gpa,field,university,degree,internship_count,internship_quality,work_while_studying,extracurricular_activities,country,german_skills,age,debt_taken,professor_score,talentvest_score,target_industry,willing_to_relocate,predicted_salary,salary_growth,discount_rate,motivation_score
+TVSTU0001,studying,36,0.52,3.63,IT,TU München,Bachelors,4,4,yes,yes,Romania,3,30,9176,2,4,Finance,yes,44315,0.049,0.127,1
+TVSTU0002,studying,36,0.61,3.14,Computer Science,TU München,Bachelors,1,2,yes,no,Romania,4,27,13439,5,5,Tech,yes,33033,0.037,0.1,1
+TVSTU0003,studying,36,0.26,3.44,Data Science,TU Darmstadt,Masters,2,5,yes,yes,Ukraine,1,21,7044,5,3,Finance,no,42519,0.046,0.1,3
+TVSTU0004,studying,48,0.59,2.44,Computer Science,TU Aachen,Bachelors,4,4,no,no,Romania,1,27,7294,4,5,Government,yes,33019,0.059,0.1,2
+TVSTU0005,studying,36,0.3,3.13,Business Analytics,TU Darmstadt,Masters,1,4,yes,no,Ukraine,4,31,18835,4,1,Startup,no,40200,0.059,0.127,2
+TVSTU0006,studying,60,0.88,3.12,Computer Science,TU Berlin,Masters,1,3,yes,yes,Romania,5,26,11387,2,4,Startup,no,39199,0.04,0.1,5
+TVSTU0007,working,48,0.06,3.16,IT,TU München,Masters,0,2,no,no,Ukraine,3,29,16254,4,1,Industry,yes,35465,0.03,0.107,5
+TVSTU0008,studying,48,0.37,2.47,Business Analytics,TU Berlin,Masters,4,3,no,yes,Romania,1,22,5925,4,4,Non-profit,yes,31312,0.059,0.087,5
+TVSTU0009,studying,48,0.35,2.94,IT,TU Darmstadt,Masters,2,2,yes,no,Romania,5,30,1604,1,5,Automobile,yes,33052,0.022,0.12,2
+TVSTU0010,working,60,0.33,2.96,Business Analytics,TU Berlin,Bachelors,2,4,yes,no,Ukraine,1,32,19012,1,1,Startup,yes,35821,0.051,0.127,5
+TVSTU0011,studying,48,0.53,2.49,Computer Science,TU Darmstadt,Masters,4,3,yes,yes,Romania,5,25,7257,3,2,Tech,yes,32622,0.029,0.107,5
+TVSTU0012,studying,48,0.62,2.04,Computer Science,TU Berlin,Masters,3,1,no,no,Ukraine,3,24,14243,5,1,Tech,yes,25322,0.037,0.113,3
+TVSTU0013,working,48,0.98,3.3,Data Science,TU Darmstadt,Masters,3,3,yes,no,Romania,1,25,17703,1,4,Automobile,yes,36807,0.059,0.107,5
+TVSTU0014,studying,60,0.78,3.28,Business Analytics,TU Aachen,Bachelors,1,5,yes,yes,Romania,4,30,266,5,5,Industry,yes,45539,0.057,0.087,3
+TVSTU0015,working,60,0.76,3.55,IT,TU Berlin,Masters,1,3,no,yes,Romania,1,32,14291,1,4,Manufacturing,yes,41279,0.025,0.133,1
+TVSTU0016,studying,48,0.7,2.85,IT,TU München,Masters,1,3,yes,yes,Romania,3,20,14327,4,1,Non-profit,no,34277,0.031,0.133,1
+TVSTU0017,working,60,0.86,2.48,Business Analytics,TU München,Bachelors,3,2,yes,no,Ukraine,2,29,9465,1,4,Finance,no,28078,0.044,0.107,5
+TVSTU0018,working,60,0.01,3.53,Business Analytics,TU Berlin,Masters,1,3,yes,yes,Ukraine,4,29,7280,4,3,Finance,no,41253,0.05,0.107,3
+TVSTU0019,working,48,0.29,3.65,Business Analytics,TU München,Bachelors,2,3,no,yes,Ukraine,1,26,917,1,3,Startup,yes,43825,0.053,0.127,3
+TVSTU0020,studying,36,0.39,3.38,Data Science,TU Aachen,Bachelors,0,4,no,yes,Ukraine,3,31,6363,2,5,Industry,no,41400,0.05,0.12,1
+TVSTU0021,studying,48,0.27,3.21,IT,TU Berlin,Bachelors,3,4,no,no,Ukraine,4,22,15441,1,2,Finance,no,40386,0.037,0.127,4
+TVSTU0022,studying,36,0.03,3.34,Computer Science,TU Aachen,Bachelors,1,5,yes,yes,Romania,1,24,10101,4,5,Academia,yes,43959,0.058,0.093,3
+TVSTU0023,studying,36,0.49,2.56,Data Science,TU Aachen,Bachelors,4,2,yes,yes,Ukraine,3,24,10881,4,4,Consulting,yes,28083,0.041,0.107,2
+TVSTU0024,working,48,0.8,3.06,Business Analytics,TU München,Masters,1,4,yes,yes,Romania,4,22,7113,4,2,Non-profit,no,40812,0.038,0.127,1
+TVSTU0025,studying,60,0.95,2.03,IT,TU Berlin,Bachelors,1,1,no,no,Ukraine,1,24,5643,2,5,Industry,yes,22012,0.036,0.12,1
+TVSTU0026,studying,48,0.89,2.23,Computer Science,TU Darmstadt,Masters,4,3,no,yes,Ukraine,2,27,3778,3,4,Startup,no,27140,0.024,0.12,1
+TVSTU0027,studying,60,0.83,2.57,Business Analytics,TU München,Masters,3,4,yes,yes,Romania,1,20,11320,5,1,Consulting,no,33566,0.026,0.12,2
+TVSTU0028,dropout,60,0.04,2.41,Data Science,TU Berlin,Masters,4,3,no,no,Romania,5,31,17281,4,5,Consulting,yes,32307,0.031,0.1,2
+TVSTU0029,dropout,36,0.19,2.81,IT,TU München,Masters,2,3,yes,yes,Ukraine,2,26,12087,5,2,Startup,yes,33254,0.054,0.093,5
+TVSTU0030,studying,36,0.87,3.53,Computer Science,TU Darmstadt,Masters,2,4,yes,no,Ukraine,1,30,10563,5,5,Industry,no,41504,0.027,0.093,2
+TVSTU0031,studying,36,0.17,3.36,Data Science,TU Aachen,Bachelors,3,4,no,yes,Romania,1,28,6159,5,4,Non-profit,no,39318,0.054,0.08,5
+TVSTU0032,studying,60,0.22,3.46,Business Analytics,TU Aachen,Bachelors,0,5,no,yes,Romania,2,21,9063,3,2,Manufacturing,yes,41666,0.055,0.107,5
+TVSTU0033,studying,60,0.78,3.29,IT,TU Darmstadt,Masters,0,4,yes,yes,Ukraine,4,29,16535,4,3,Finance,no,41870,0.036,0.113,2
+TVSTU0034,studying,48,0.79,2.49,IT,TU München,Masters,2,3,yes,yes,Ukraine,4,24,4833,3,4,Industry,no,28201,0.033,0.107,3
+TVSTU0035,studying,36,0.77,3.5,Computer Science,TU Berlin,Masters,0,4,yes,no,Ukraine,4,32,16689,5,1,Government,no,42658,0.027,0.127,1
+TVSTU0036,studying,48,0.78,2.75,Data Science,TU Darmstadt,Bachelors,1,4,yes,no,Ukraine,2,32,18773,4,4,Automobile,yes,36622,0.054,0.1,3
+TVSTU0037,studying,36,0.13,2.61,Data Science,TU Aachen,Masters,1,3,yes,yes,Romania,2,26,7064,3,1,Academia,yes,32528,0.051,0.133,2
+TVSTU0038,dropout,48,0.16,3.15,Business Analytics,TU Darmstadt,Masters,4,4,no,no,Romania,5,31,3175,1,5,Government,no,38344,0.021,0.113,3
+TVSTU0039,studying,60,0.84,3.29,IT,TU München,Bachelors,3,3,no,no,Romania,3,26,10902,5,1,Tech,no,41781,0.049,0.12,2
+TVSTU0040,working,48,0.9,3.05,Data Science,TU Aachen,Masters,2,2,yes,no,Ukraine,2,31,15900,5,1,Non-profit,yes,37456,0.056,0.107,4
+TVSTU0041,working,60,0.18,2.2,IT,TU München,Masters,0,2,yes,yes,Ukraine,4,23,19023,1,5,Consulting,no,24485,0.022,0.127,1
+TVSTU0042,working,48,0.97,3.02,IT,TU Aachen,Masters,0,2,yes,yes,Ukraine,3,25,11472,2,3,Finance,yes,37023,0.022,0.133,1
+TVSTU0043,working,48,0.56,3.06,Data Science,TU Berlin,Bachelors,2,2,yes,no,Ukraine,4,30,524,5,3,Finance,no,32038,0.034,0.107,2
+TVSTU0044,working,60,0.31,2.91,Computer Science,TU Darmstadt,Bachelors,0,2,yes,no,Romania,2,27,17627,5,2,Academia,no,32976,0.033,0.12,1
+TVSTU0045,dropout,36,0.1,2.95,IT,TU München,Bachelors,1,3,yes,no,Ukraine,3,20,2386,5,4,Finance,yes,38210,0.048,0.08,5
+TVSTU0046,studying,48,0.53,3.49,Computer Science,TU Aachen,Masters,4,4,yes,yes,Ukraine,1,31,16544,2,5,Tech,yes,43185,0.026,0.12,1
+TVSTU0047,studying,48,0.18,2.91,Computer Science,TU Berlin,Masters,0,4,no,no,Romania,4,28,15320,2,1,Government,yes,39669,0.047,0.133,3
+TVSTU0048,working,60,0.86,2.55,Computer Science,TU München,Masters,4,2,no,yes,Ukraine,2,31,6963,4,1,Tech,no,31442,0.051,0.127,2
+TVSTU0049,dropout,60,0.1,2.71,IT,TU Berlin,Masters,0,4,yes,no,Romania,4,24,15849,5,4,Startup,no,36843,0.032,0.107,1
+TVSTU0050,working,48,0.87,2.5,IT,TU München,Masters,3,2,yes,yes,Ukraine,1,22,14081,4,2,Government,no,29343,0.057,0.127,1
+TVSTU0051,studying,36,0.91,3.33,Business Analytics,TU Darmstadt,Masters,4,5,no,no,Romania,4,32,12575,4,1,Automobile,yes,42769,0.022,0.133,1
+TVSTU0052,working,60,0.77,2.56,Data Science,TU Aachen,Masters,0,3,no,no,Ukraine,1,25,1080,3,4,Non-profit,yes,33278,0.047,0.12,1
+TVSTU0053,working,48,0.99,2.22,Computer Science,TU München,Bachelors,0,1,no,no,Romania,2,27,9659,3,1,Industry,yes,23540,0.05,0.113,5
+TVSTU0054,studying,36,0.84,3.81,Data Science,TU Berlin,Masters,4,4,no,no,Romania,4,29,4791,1,3,Academia,yes,48561,0.047,0.127,3
+TVSTU0055,studying,36,0.96,3.48,Data Science,TU München,Masters,1,3,no,yes,Romania,4,22,10802,4,4,Startup,yes,38923,0.041,0.093,4
+TVSTU0056,dropout,48,0.12,3.17,Computer Science,TU Berlin,Masters,3,4,no,no,Ukraine,4,23,7358,5,3,Academia,yes,38335,0.021,0.093,4
+TVSTU0057,studying,36,0.98,3.24,Computer Science,TU Berlin,Masters,2,3,yes,no,Romania,3,25,2225,3,3,Tech,yes,35942,0.059,0.107,4
+TVSTU0058,studying,48,0.09,2.74,Business Analytics,TU Darmstadt,Bachelors,3,4,no,yes,Ukraine,4,26,13128,2,5,Non-profit,no,35101,0.052,0.12,1
+TVSTU0059,studying,60,0.72,2.45,IT,TU Aachen,Masters,0,4,no,yes,Romania,1,20,9922,2,3,Startup,no,33953,0.036,0.113,4
+TVSTU0060,studying,48,0.64,2.5,IT,TU München,Bachelors,3,4,no,yes,Romania,1,29,1609,3,3,Non-profit,yes,34792,0.032,0.107,4
+TVSTU0061,studying,36,0.9,2.83,IT,TU München,Bachelors,2,2,no,no,Ukraine,4,24,14410,5,2,Academia,no,35052,0.048,0.1,4
+TVSTU0062,studying,36,0.61,3.58,Business Analytics,TU Darmstadt,Bachelors,1,3,no,no,Romania,3,23,3956,3,4,Non-profit,yes,41646,0.05,0.093,5
+TVSTU0063,studying,60,0.08,3.24,Business Analytics,TU München,Bachelors,0,3,yes,yes,Romania,4,29,362,1,1,Automobile,no,36148,0.051,0.127,5
+TVSTU0064,studying,48,0.45,2.65,Business Analytics,TU Darmstadt,Bachelors,0,2,yes,no,Ukraine,3,24,13599,5,3,Industry,no,28140,0.031,0.093,4
+TVSTU0065,working,36,0.36,3.51,Business Analytics,TU München,Bachelors,4,4,yes,yes,Ukraine,3,32,17456,4,2,Non-profit,yes,45997,0.046,0.127,1
+TVSTU0066,working,48,0.99,2.81,Computer Science,TU München,Bachelors,3,2,yes,no,Ukraine,1,24,14006,2,3,Startup,yes,34691,0.03,0.127,2
+TVSTU0067,studying,36,0.33,3.03,Data Science,TU Darmstadt,Bachelors,4,2,no,no,Ukraine,4,31,546,4,4,Finance,no,31499,0.021,0.107,2
+TVSTU0068,studying,36,0.66,3.59,Computer Science,TU Darmstadt,Masters,1,3,yes,no,Romania,4,32,12638,5,5,Government,no,42756,0.047,0.093,2
+TVSTU0069,studying,48,0.01,3.33,Business Analytics,TU Aachen,Masters,0,3,yes,no,Romania,2,26,3890,5,3,Tech,no,40197,0.042,0.093,4
+TVSTU0070,studying,36,0.7,2.65,Business Analytics,TU München,Masters,2,4,yes,yes,Ukraine,4,20,9554,3,2,Academia,no,33679,0.049,0.107,5
+TVSTU0071,studying,36,0.31,4.0,Business Analytics,TU Darmstadt,Masters,4,4,yes,no,Ukraine,3,29,17165,1,5,Consulting,yes,50350,0.027,0.113,3
+TVSTU0072,working,48,0.96,2.67,IT,TU Aachen,Masters,0,3,no,yes,Ukraine,4,22,1833,3,5,Academia,no,33524,0.03,0.087,5
+TVSTU0073,studying,60,0.76,3.03,Computer Science,TU München,Masters,0,3,yes,no,Romania,3,23,14389,1,4,Government,yes,36338,0.054,0.133,1
+TVSTU0074,studying,60,0.77,3.22,Business Analytics,TU München,Bachelors,2,5,yes,no,Romania,5,23,18491,2,4,Manufacturing,no,39951,0.022,0.1,5
+TVSTU0075,working,36,0.73,3.04,IT,TU Darmstadt,Bachelors,1,2,no,no,Romania,5,30,413,4,1,Startup,yes,32981,0.056,0.12,3
+TVSTU0076,working,48,0.66,2.4,Business Analytics,TU Berlin,Bachelors,2,2,yes,no,Romania,1,27,13271,2,4,Tech,no,30636,0.047,0.107,4
+TVSTU0077,working,60,0.52,2.95,IT,TU Aachen,Masters,1,2,yes,yes,Ukraine,4,24,16062,3,5,Manufacturing,yes,32148,0.05,0.1,3
+TVSTU0078,studying,60,0.09,3.13,Computer Science,TU Berlin,Bachelors,3,2,no,no,Ukraine,1,21,5940,4,2,Tech,no,36028,0.049,0.127,1
+TVSTU0079,working,60,0.88,2.88,Computer Science,TU Darmstadt,Masters,3,2,yes,yes,Romania,4,23,12431,3,4,Tech,yes,33337,0.032,0.12,1
+TVSTU0080,studying,36,0.34,2.93,Business Analytics,TU München,Bachelors,0,2,no,no,Ukraine,3,24,10329,2,2,Startup,yes,30561,0.025,0.127,3
+TVSTU0081,studying,60,0.6,2.87,Data Science,TU München,Masters,1,4,no,no,Romania,2,30,5484,4,1,Finance,no,34554,0.025,0.113,4
+TVSTU0082,dropout,36,0.53,3.72,IT,TU Aachen,Bachelors,1,4,yes,yes,Ukraine,4,25,14273,3,3,Industry,no,46903,0.024,0.107,4
+TVSTU0083,studying,48,0.91,2.4,Data Science,TU Aachen,Bachelors,4,4,no,no,Ukraine,4,26,11235,1,1,Government,no,31081,0.039,0.147,2
+TVSTU0084,studying,60,0.81,3.09,Computer Science,TU Darmstadt,Bachelors,3,3,no,no,Ukraine,4,30,8915,1,1,Industry,no,39217,0.029,0.133,4
+TVSTU0085,studying,48,0.22,3.22,Data Science,TU Aachen,Bachelors,3,4,no,no,Romania,2,23,5642,3,4,Industry,no,38678,0.056,0.12,1
+TVSTU0086,studying,36,1.0,2.67,Computer Science,TU Darmstadt,Bachelors,2,3,yes,yes,Ukraine,1,26,18846,1,3,Startup,yes,33182,0.042,0.113,5
+TVSTU0087,studying,60,0.18,2.9,Computer Science,TU Darmstadt,Bachelors,3,2,yes,no,Ukraine,2,25,6160,1,3,Manufacturing,no,30060,0.056,0.14,1
+TVSTU0088,studying,36,0.89,2.92,Data Science,TU Darmstadt,Masters,3,2,no,no,Ukraine,1,32,12784,4,2,Academia,yes,32123,0.036,0.113,3
+TVSTU0089,dropout,48,0.06,3.04,Business Analytics,TU Darmstadt,Bachelors,1,3,no,no,Romania,4,21,3803,2,4,Startup,yes,39034,0.038,0.1,5
+TVSTU0090,working,48,0.44,2.61,Data Science,TU Darmstadt,Bachelors,4,4,yes,no,Romania,3,27,5413,1,5,Startup,yes,35718,0.057,0.127,1
+TVSTU0091,studying,60,0.87,2.66,Computer Science,TU Darmstadt,Masters,1,3,yes,no,Ukraine,4,28,16059,1,2,Tech,yes,30520,0.03,0.147,1
+TVSTU0092,dropout,36,0.14,2.76,IT,TU Aachen,Masters,2,3,yes,no,Ukraine,4,20,19783,2,5,Non-profit,yes,32017,0.048,0.107,3
+TVSTU0093,working,36,0.72,2.39,Business Analytics,TU Berlin,Masters,2,3,yes,no,Ukraine,4,26,13510,1,4,Startup,no,32185,0.036,0.133,1
+TVSTU0094,studying,60,0.09,3.28,Business Analytics,TU Aachen,Bachelors,3,4,yes,no,Ukraine,1,21,16047,4,2,Industry,yes,39317,0.022,0.127,1
+TVSTU0095,studying,36,1.0,2.93,IT,TU Aachen,Masters,2,2,yes,yes,Romania,4,26,1786,4,1,Automobile,no,32032,0.034,0.113,4
+TVSTU0096,studying,48,0.25,3.19,IT,TU Berlin,Masters,2,2,no,yes,Ukraine,2,23,16891,3,1,Automobile,no,37887,0.047,0.14,1
+TVSTU0097,studying,48,0.51,2.63,Business Analytics,TU Aachen,Bachelors,0,2,no,yes,Ukraine,2,21,17855,4,4,Non-profit,no,31489,0.023,0.093,4
+TVSTU0098,studying,36,0.95,2.13,Computer Science,TU Darmstadt,Masters,1,1,yes,yes,Romania,5,27,18602,2,4,Finance,no,22637,0.032,0.113,3
+TVSTU0099,studying,48,0.28,3.43,Data Science,TU Darmstadt,Masters,2,4,yes,no,Romania,5,22,7392,4,5,Industry,no,41916,0.032,0.08,5
+TVSTU0100,studying,36,0.32,3.04,Computer Science,TU Berlin,Bachelors,1,4,yes,no,Romania,5,20,11726,4,3,Academia,no,37754,0.021,0.1,4
+TVSTU0101,studying,48,0.81,3.17,Business Analytics,TU Aachen,Masters,0,3,yes,yes,Romania,5,21,14043,5,3,Automobile,no,35947,0.034,0.087,5
+TVSTU0102,studying,48,1.0,2.83,IT,TU München,Bachelors,4,4,yes,no,Romania,4,29,5889,3,4,Government,yes,35996,0.043,0.093,5
+TVSTU0103,working,60,0.45,3.54,Data Science,TU Darmstadt,Bachelors,4,5,no,yes,Ukraine,4,32,16824,2,1,Startup,yes,47267,0.022,0.12,5
+TVSTU0104,working,60,0.97,2.92,Data Science,TU Darmstadt,Masters,1,4,yes,yes,Ukraine,1,31,17081,3,5,Manufacturing,yes,35378,0.041,0.1,3
+TVSTU0105,studying,60,0.3,3.58,Data Science,TU Berlin,Masters,4,3,no,no,Ukraine,1,27,17146,3,2,Government,yes,42116,0.052,0.133,1
+TVSTU0106,working,60,0.07,3.11,Business Analytics,TU München,Masters,4,4,no,no,Ukraine,4,31,10532,1,2,Tech,no,38109,0.04,0.14,2
+TVSTU0107,studying,60,0.21,2.39,IT,TU Darmstadt,Masters,4,3,yes,no,Ukraine,4,30,5345,1,5,Startup,no,28609,0.026,0.1,5
+TVSTU0108,studying,60,0.03,4.0,Computer Science,TU Aachen,Bachelors,2,4,no,no,Romania,5,25,18946,2,5,Automobile,no,45897,0.04,0.113,2
+TVSTU0109,working,48,0.73,3.44,Data Science,TU Aachen,Bachelors,0,5,no,no,Ukraine,1,26,5041,1,3,Finance,no,45550,0.035,0.127,3
+TVSTU0110,studying,60,0.8,3.04,IT,TU München,Masters,3,3,yes,no,Ukraine,4,32,14744,4,3,Finance,no,34211,0.059,0.113,2
+TVSTU0111,working,48,0.68,2.86,Business Analytics,TU Berlin,Bachelors,2,2,no,yes,Ukraine,4,24,9396,5,5,Academia,yes,30012,0.058,0.093,2
+TVSTU0112,studying,48,0.7,2.78,Data Science,TU München,Masters,3,4,no,no,Romania,5,32,13290,2,3,Finance,no,37263,0.045,0.107,5
+TVSTU0113,studying,36,0.57,2.73,IT,TU Darmstadt,Bachelors,2,3,yes,no,Romania,5,25,12306,4,2,Industry,yes,30474,0.054,0.107,4
+TVSTU0114,studying,48,0.12,2.89,Business Analytics,TU Berlin,Bachelors,2,3,yes,no,Romania,4,26,10500,2,3,Tech,yes,34511,0.034,0.113,4
+TVSTU0115,studying,36,0.24,3.03,Computer Science,TU Darmstadt,Masters,0,3,yes,yes,Romania,2,21,9215,1,4,Automobile,yes,35434,0.036,0.133,1
+TVSTU0116,working,36,0.09,3.28,Data Science,TU Darmstadt,Masters,2,3,yes,yes,Romania,3,22,2469,5,1,Automobile,yes,38210,0.037,0.107,4
+TVSTU0117,studying,36,0.57,2.68,Computer Science,TU Berlin,Bachelors,0,2,yes,yes,Romania,5,22,18114,2,5,Automobile,yes,31318,0.053,0.113,2
+TVSTU0118,working,36,0.88,3.85,Data Science,TU Darmstadt,Bachelors,1,4,yes,no,Romania,1,29,17507,1,5,Tech,yes,48525,0.022,0.127,1
+TVSTU0119,studying,48,0.5,2.81,Computer Science,TU Aachen,Masters,1,2,no,no,Ukraine,4,25,14254,2,2,Academia,no,32046,0.055,0.113,5
+TVSTU0120,studying,48,0.77,3.14,Business Analytics,TU Berlin,Masters,4,2,yes,no,Ukraine,2,21,3646,5,1,Industry,yes,33604,0.02,0.1,5
+TVSTU0121,working,60,0.76,2.37,Data Science,TU Aachen,Bachelors,3,2,no,no,Ukraine,1,27,12585,1,2,Consulting,no,30397,0.04,0.12,5
+TVSTU0122,studying,48,0.14,3.59,IT,TU München,Masters,1,5,no,no,Romania,2,22,11015,4,2,Industry,no,43969,0.03,0.127,1
+TVSTU0123,studying,36,0.99,2.79,Data Science,TU München,Bachelors,2,4,yes,yes,Ukraine,2,27,16482,5,4,Consulting,yes,37837,0.037,0.08,5
+TVSTU0124,working,60,0.41,3.41,Business Analytics,TU Berlin,Bachelors,1,5,yes,no,Romania,2,28,11646,5,2,Consulting,yes,43845,0.037,0.12,1
+TVSTU0125,working,60,0.01,3.47,Business Analytics,TU Berlin,Masters,0,5,yes,yes,Ukraine,3,32,10792,3,1,Government,yes,42954,0.025,0.133,2
+TVSTU0126,dropout,36,0.41,2.85,Computer Science,TU Aachen,Masters,3,2,yes,no,Ukraine,1,22,17820,2,3,Finance,no,30553,0.048,0.12,3
+TVSTU0127,studying,36,0.12,3.07,Business Analytics,TU München,Masters,1,3,yes,no,Ukraine,4,21,7286,1,3,Automobile,yes,39346,0.047,0.113,5
+TVSTU0128,studying,60,0.94,2.74,Data Science,TU Aachen,Bachelors,4,4,no,yes,Romania,3,28,17412,2,2,Manufacturing,no,38310,0.031,0.14,1
+TVSTU0129,studying,48,0.25,2.84,Business Analytics,TU Aachen,Bachelors,3,4,no,no,Romania,2,31,14381,4,4,Manufacturing,no,34093,0.06,0.093,4
+TVSTU0130,studying,36,0.46,1.99,Business Analytics,TU Darmstadt,Masters,4,3,no,yes,Romania,4,27,17267,1,5,Non-profit,no,24042,0.036,0.107,4
+TVSTU0131,studying,36,0.32,2.4,Business Analytics,TU Berlin,Bachelors,0,4,no,yes,Romania,5,31,18142,4,4,Government,yes,34135,0.046,0.1,3
+TVSTU0132,working,36,0.84,2.89,IT,TU Aachen,Bachelors,0,3,no,no,Romania,4,21,2593,1,5,Startup,no,33354,0.048,0.107,4
+TVSTU0133,studying,48,0.47,2.78,Business Analytics,TU München,Masters,4,3,no,no,Romania,4,28,13394,1,5,Finance,no,34748,0.02,0.12,2
+TVSTU0134,studying,36,0.14,2.45,Data Science,TU München,Masters,3,2,yes,no,Romania,3,20,920,3,1,Startup,no,31258,0.054,0.133,2
+TVSTU0135,working,48,0.14,2.74,Business Analytics,TU München,Masters,0,3,no,no,Romania,3,24,10872,4,5,Government,yes,33592,0.02,0.107,1
+TVSTU0136,studying,60,0.27,2.72,Computer Science,TU Aachen,Masters,3,3,no,no,Ukraine,3,30,4422,1,3,Industry,yes,33423,0.027,0.113,5
+TVSTU0137,working,60,0.29,2.42,Business Analytics,TU Aachen,Bachelors,4,3,no,no,Ukraine,3,24,1934,2,4,Tech,yes,32507,0.032,0.113,3
+TVSTU0138,studying,48,0.55,2.98,Computer Science,TU Darmstadt,Masters,2,2,yes,no,Romania,3,30,19867,4,4,Automobile,no,35130,0.036,0.093,4
+TVSTU0139,studying,48,0.88,2.77,IT,TU Aachen,Bachelors,0,3,no,no,Romania,4,22,12102,4,1,Automobile,no,31126,0.059,0.12,3
+TVSTU0140,studying,48,0.82,2.8,Data Science,TU Berlin,Masters,1,4,yes,no,Ukraine,1,24,83,3,5,Manufacturing,no,33001,0.047,0.107,2
+TVSTU0141,studying,36,0.04,3.35,Computer Science,TU München,Masters,4,5,yes,yes,Romania,5,32,6567,1,4,Finance,no,46461,0.051,0.113,4
+TVSTU0142,studying,60,0.02,3.05,Business Analytics,TU Aachen,Masters,2,2,yes,no,Ukraine,3,25,16382,4,4,Academia,no,33042,0.055,0.113,1
+TVSTU0143,studying,36,0.51,3.64,Business Analytics,TU Berlin,Masters,0,4,yes,no,Romania,4,26,16617,3,5,Industry,no,45487,0.031,0.1,3
+TVSTU0144,working,48,0.78,3.2,Data Science,TU München,Bachelors,1,5,yes,yes,Romania,5,32,15840,2,2,Automobile,yes,39833,0.059,0.127,3
+TVSTU0145,working,36,0.36,3.29,Data Science,TU Berlin,Bachelors,4,3,no,yes,Ukraine,1,22,11313,2,5,Finance,yes,39291,0.04,0.113,2
+TVSTU0146,studying,48,0.37,2.76,Computer Science,TU München,Masters,3,2,no,no,Romania,2,29,15432,1,3,Automobile,yes,30275,0.026,0.113,5
+TVSTU0147,working,60,0.44,3.45,Computer Science,TU München,Bachelors,1,3,no,no,Ukraine,2,31,6752,5,5,Manufacturing,no,40815,0.047,0.1,1
+TVSTU0148,working,48,0.65,2.39,Business Analytics,TU Darmstadt,Masters,3,2,no,yes,Romania,4,31,13513,4,4,Automobile,no,27593,0.023,0.113,1
+TVSTU0149,working,36,0.95,3.16,Computer Science,TU München,Masters,0,4,yes,no,Romania,3,23,8453,3,4,Manufacturing,no,39254,0.032,0.107,3
+TVSTU0150,studying,48,0.96,2.79,Computer Science,TU München,Bachelors,4,3,yes,yes,Ukraine,2,29,2149,4,3,Finance,yes,31844,0.054,0.113,2
+TVSTU0151,studying,36,0.82,2.79,Computer Science,TU Darmstadt,Masters,1,3,no,no,Romania,3,27,13403,4,4,Industry,yes,34311,0.03,0.1,3
+TVSTU0152,studying,36,0.88,3.09,Business Analytics,TU Aachen,Bachelors,3,4,yes,yes,Romania,5,29,7664,4,3,Automobile,no,39150,0.054,0.12,1
+TVSTU0153,dropout,48,0.53,3.35,Data Science,TU München,Bachelors,1,4,no,no,Romania,4,24,15686,3,1,Finance,no,39933,0.023,0.113,5
+TVSTU0154,studying,60,0.9,2.89,Data Science,TU Aachen,Bachelors,3,2,no,no,Ukraine,4,27,19068,1,5,Consulting,yes,33732,0.034,0.107,4
+TVSTU0155,studying,60,0.36,3.11,Business Analytics,TU Darmstadt,Bachelors,1,3,no,yes,Romania,2,25,1648,4,1,Industry,yes,34788,0.043,0.107,5
+TVSTU0156,studying,36,0.93,2.48,Data Science,TU Berlin,Masters,3,2,no,yes,Romania,2,26,13878,2,2,Consulting,no,28324,0.036,0.12,4
+TVSTU0157,studying,60,0.7,3.38,IT,TU Berlin,Bachelors,4,4,yes,no,Ukraine,1,29,286,4,1,Government,yes,40587,0.039,0.107,5
+TVSTU0158,studying,60,0.03,3.65,Business Analytics,TU Darmstadt,Bachelors,0,5,yes,no,Ukraine,2,28,3901,4,5,Manufacturing,yes,46242,0.027,0.08,5
+TVSTU0159,studying,48,0.65,2.93,Business Analytics,TU München,Bachelors,2,2,no,no,Romania,1,32,5675,2,2,Tech,no,33389,0.037,0.127,3
+TVSTU0160,studying,36,0.4,2.97,IT,TU Darmstadt,Bachelors,0,4,no,no,Ukraine,2,23,14655,4,1,Non-profit,yes,38506,0.053,0.133,1
+TVSTU0161,working,36,0.99,2.5,Business Analytics,TU Berlin,Masters,2,2,yes,no,Ukraine,3,25,818,2,2,Academia,yes,29816,0.045,0.14,1
+TVSTU0162,studying,60,0.45,2.22,IT,TU Aachen,Masters,3,2,yes,no,Romania,3,20,7736,1,3,Automobile,no,26740,0.027,0.14,1
+TVSTU0163,studying,48,0.98,3.47,Business Analytics,TU Darmstadt,Masters,0,5,no,no,Ukraine,2,22,2589,2,2,Non-profit,no,44511,0.036,0.127,3
+TVSTU0164,studying,60,0.82,3.15,Data Science,TU Aachen,Bachelors,0,4,yes,yes,Romania,1,30,5126,2,3,Consulting,yes,41886,0.031,0.113,4
+TVSTU0165,studying,48,0.34,3.24,Data Science,TU Berlin,Bachelors,4,5,no,yes,Ukraine,1,28,8380,1,5,Manufacturing,yes,42212,0.049,0.1,5
+TVSTU0166,studying,60,0.11,2.72,Computer Science,TU Aachen,Masters,4,4,no,yes,Romania,5,27,4981,5,4,Consulting,no,34862,0.045,0.08,5
+TVSTU0167,working,36,0.9,2.78,IT,TU Berlin,Bachelors,0,2,yes,yes,Ukraine,4,22,16270,4,3,Consulting,yes,32573,0.045,0.093,5
+TVSTU0168,working,48,0.76,3.26,Computer Science,TU Aachen,Bachelors,4,4,yes,no,Romania,4,23,6855,3,5,Government,yes,40417,0.05,0.107,2
+TVSTU0169,studying,36,0.52,2.96,IT,TU Berlin,Bachelors,4,2,no,no,Ukraine,3,28,15949,1,2,Government,yes,31288,0.035,0.147,1
+TVSTU0170,studying,36,0.16,2.84,Business Analytics,TU Berlin,Bachelors,0,3,yes,yes,Ukraine,3,25,6331,2,5,Non-profit,yes,32632,0.031,0.093,5
+TVSTU0171,dropout,60,0.06,3.09,IT,TU Berlin,Masters,3,4,no,no,Ukraine,3,30,10539,4,1,Finance,yes,41674,0.042,0.12,3
+TVSTU0172,studying,60,0.25,3.11,IT,TU München,Masters,2,3,yes,yes,Ukraine,1,27,11299,5,4,Finance,no,38040,0.058,0.093,3
+TVSTU0173,studying,36,0.89,3.16,Data Science,TU Darmstadt,Bachelors,2,2,yes,yes,Ukraine,2,32,17750,5,1,Academia,no,33363,0.054,0.113,3
+TVSTU0174,studying,60,0.67,3.03,IT,TU Aachen,Masters,1,4,no,yes,Ukraine,4,32,16197,3,5,Startup,yes,35780,0.044,0.107,2
+TVSTU0175,working,36,0.78,2.92,Data Science,TU München,Bachelors,1,2,yes,no,Ukraine,1,20,12605,2,2,Industry,no,35746,0.046,0.127,3
+TVSTU0176,studying,36,0.08,3.11,Computer Science,TU Aachen,Bachelors,3,3,no,yes,Ukraine,2,24,2925,5,2,Non-profit,yes,37905,0.052,0.1,4
+TVSTU0177,studying,48,0.17,2.74,IT,TU München,Masters,0,3,yes,yes,Ukraine,2,25,14990,4,4,Consulting,yes,30874,0.03,0.107,2
+TVSTU0178,studying,36,0.47,2.41,Computer Science,TU München,Masters,1,2,yes,yes,Ukraine,1,23,13635,1,2,Finance,yes,29341,0.045,0.133,3
+TVSTU0179,studying,60,0.76,3.16,Data Science,TU Darmstadt,Bachelors,4,2,no,yes,Romania,5,32,15476,4,4,Government,yes,38002,0.041,0.113,1
+TVSTU0180,studying,60,0.95,2.92,IT,TU Darmstadt,Bachelors,4,2,yes,yes,Ukraine,4,26,17869,2,2,Automobile,yes,35336,0.05,0.133,2
+TVSTU0181,studying,60,0.58,2.92,Business Analytics,TU Berlin,Masters,1,3,yes,yes,Romania,2,29,10958,1,1,Consulting,no,37637,0.027,0.14,3
+TVSTU0182,studying,60,0.99,3.26,Business Analytics,TU Aachen,Bachelors,4,4,no,yes,Ukraine,1,24,11497,2,2,Manufacturing,yes,43550,0.036,0.127,3
+TVSTU0183,studying,60,0.72,3.6,IT,TU Darmstadt,Masters,4,5,yes,yes,Romania,4,26,14366,2,5,Manufacturing,no,43947,0.034,0.12,1
+TVSTU0184,studying,48,0.15,3.34,Business Analytics,TU Aachen,Masters,4,3,no,yes,Romania,1,28,19800,2,3,Non-profit,no,40379,0.038,0.107,5
+TVSTU0185,studying,48,0.62,3.19,IT,TU Berlin,Bachelors,1,4,yes,yes,Ukraine,1,23,3448,3,5,Automobile,no,41441,0.046,0.107,2
+TVSTU0186,working,36,0.16,2.86,Computer Science,TU Aachen,Masters,2,2,yes,yes,Romania,5,21,10608,1,4,Government,yes,31705,0.046,0.127,2
+TVSTU0187,studying,36,0.59,3.47,IT,TU Darmstadt,Bachelors,3,3,yes,yes,Romania,5,23,5224,3,1,Finance,yes,38695,0.057,0.14,1
+TVSTU0188,working,48,0.78,3.22,IT,TU Berlin,Bachelors,2,5,no,yes,Romania,3,28,5532,1,1,Industry,no,40645,0.036,0.14,3
+TVSTU0189,studying,48,0.99,2.78,Business Analytics,TU Berlin,Bachelors,4,4,no,yes,Ukraine,3,20,19933,4,1,Consulting,no,37522,0.05,0.12,3
+TVSTU0190,studying,36,0.51,2.62,Data Science,TU München,Bachelors,3,3,yes,yes,Romania,4,24,6333,5,5,Non-profit,no,32194,0.053,0.1,1
+TVSTU0191,studying,36,0.02,2.89,Data Science,TU Berlin,Bachelors,3,3,yes,yes,Romania,4,23,1014,4,2,Consulting,yes,34903,0.045,0.113,3
+TVSTU0192,working,36,0.62,2.19,Business Analytics,TU München,Masters,0,1,yes,no,Ukraine,3,22,115,3,5,Industry,no,26877,0.045,0.113,1
+TVSTU0193,studying,60,0.73,3.21,Data Science,TU Aachen,Bachelors,0,4,yes,no,Ukraine,2,31,2773,1,1,Finance,no,39065,0.023,0.133,4
+TVSTU0194,working,60,0.43,3.32,Business Analytics,TU München,Masters,4,4,yes,yes,Ukraine,3,31,10543,5,2,Industry,yes,43633,0.055,0.1,4
+TVSTU0195,working,48,0.0,3.04,Computer Science,TU Darmstadt,Masters,4,3,no,yes,Romania,5,29,4538,2,1,Consulting,yes,35121,0.025,0.14,2
+TVSTU0196,studying,60,0.68,2.38,Business Analytics,TU Darmstadt,Bachelors,4,1,yes,no,Ukraine,3,31,3932,3,5,Tech,no,28249,0.04,0.107,2
+TVSTU0197,studying,60,0.21,2.81,IT,TU Darmstadt,Bachelors,4,2,yes,no,Ukraine,4,24,11333,4,1,Tech,no,29384,0.02,0.12,3
+TVSTU0198,studying,48,0.76,2.6,Computer Science,TU Aachen,Masters,2,4,yes,yes,Ukraine,2,24,17253,2,5,Automobile,no,34991,0.031,0.12,1
+TVSTU0199,working,36,0.82,3.39,Business Analytics,TU Berlin,Bachelors,3,5,no,no,Romania,1,23,17695,5,3,Academia,no,42995,0.03,0.107,2
+TVSTU0200,studying,48,0.53,2.78,Computer Science,TU Darmstadt,Masters,2,4,no,no,Ukraine,2,26,2904,1,2,Non-profit,no,34386,0.05,0.12,5
+TVSTU0201,studying,60,0.1,3.99,Computer Science,TU München,Bachelors,4,3,no,no,Ukraine,4,30,2008,1,4,Non-profit,no,46824,0.035,0.133,1
+TVSTU0202,studying,60,0.49,2.91,Data Science,TU München,Bachelors,1,2,no,yes,Ukraine,4,31,442,2,3,Consulting,yes,31845,0.053,0.107,5
+TVSTU0203,studying,48,0.73,3.96,Data Science,TU München,Bachelors,3,5,no,yes,Romania,4,23,12561,2,5,Industry,yes,47292,0.046,0.1,4
+TVSTU0204,studying,60,0.63,2.84,Business Analytics,TU Aachen,Masters,0,3,no,no,Romania,1,31,1858,5,4,Consulting,yes,36641,0.029,0.08,5
+TVSTU0205,working,60,0.44,2.99,Business Analytics,TU München,Bachelors,3,2,no,yes,Ukraine,4,21,5754,1,2,Industry,yes,33874,0.049,0.14,2
+TVSTU0206,working,60,0.33,3.04,Computer Science,TU Aachen,Masters,3,2,yes,no,Ukraine,2,24,6527,1,2,Non-profit,yes,33848,0.041,0.14,2
+TVSTU0207,studying,60,0.76,3.69,Business Analytics,TU Berlin,Bachelors,1,5,no,yes,Romania,2,27,4380,3,1,Government,yes,48211,0.053,0.133,2
+TVSTU0208,studying,48,0.08,2.66,Data Science,TU München,Bachelors,2,3,no,no,Romania,3,26,16521,1,3,Manufacturing,no,31735,0.029,0.133,2
+TVSTU0209,working,36,0.52,2.52,Computer Science,TU Darmstadt,Masters,2,2,yes,no,Ukraine,2,30,2152,2,5,Industry,no,30947,0.031,0.12,1
+TVSTU0210,studying,36,0.02,2.76,Computer Science,TU Berlin,Masters,3,4,yes,yes,Ukraine,4,23,5241,1,2,Industry,no,32725,0.033,0.133,3
+TVSTU0211,working,60,0.48,3.53,Business Analytics,TU Aachen,Bachelors,2,5,yes,no,Ukraine,3,27,10644,1,3,Finance,yes,46345,0.034,0.12,4
+TVSTU0212,working,60,0.35,3.16,Computer Science,TU Berlin,Masters,2,2,yes,yes,Romania,3,31,17543,4,1,Industry,no,37895,0.055,0.127,2
+TVSTU0213,dropout,48,0.2,2.88,IT,TU Berlin,Bachelors,1,3,no,no,Romania,1,31,18625,1,1,Government,yes,37382,0.038,0.147,2
+TVSTU0214,studying,60,0.03,2.67,Business Analytics,TU Darmstadt,Masters,1,2,yes,no,Romania,1,25,12215,4,1,Industry,no,29673,0.028,0.127,2
+TVSTU0215,working,36,0.43,2.73,Data Science,TU München,Masters,2,3,yes,yes,Romania,4,31,2052,2,5,Industry,no,34440,0.05,0.12,1
+TVSTU0216,studying,36,0.23,3.26,Business Analytics,TU Berlin,Bachelors,4,3,yes,no,Romania,4,23,7985,2,3,Automobile,yes,36992,0.034,0.133,1
+TVSTU0217,studying,36,0.25,3.42,Business Analytics,TU Berlin,Bachelors,2,3,yes,yes,Ukraine,1,21,3185,1,2,Industry,yes,38733,0.033,0.14,2
+TVSTU0218,studying,60,0.37,2.8,Business Analytics,TU Darmstadt,Bachelors,0,4,yes,no,Ukraine,2,22,9339,5,5,Tech,yes,37492,0.035,0.073,5
+TVSTU0219,studying,48,0.07,3.19,Computer Science,TU München,Bachelors,2,2,yes,yes,Romania,1,28,774,5,5,Academia,no,38131,0.044,0.1,1
+TVSTU0220,studying,48,0.64,2.8,Computer Science,TU Berlin,Bachelors,4,2,yes,yes,Ukraine,1,31,14519,4,3,Non-profit,no,32957,0.029,0.093,5
+TVSTU0221,working,60,0.89,2.91,Business Analytics,TU Aachen,Masters,4,2,no,no,Romania,5,29,5048,3,5,Finance,yes,35618,0.049,0.087,5
+TVSTU0222,studying,60,0.04,2.84,IT,TU Darmstadt,Bachelors,2,4,no,no,Ukraine,3,28,17689,5,1,Non-profit,yes,36482,0.022,0.12,2
+TVSTU0223,studying,36,0.56,3.58,Data Science,TU Aachen,Bachelors,4,4,yes,yes,Ukraine,3,26,3332,1,3,Automobile,yes,41930,0.06,0.12,4
+TVSTU0224,working,48,0.25,3.37,IT,TU Berlin,Masters,2,5,yes,no,Romania,3,22,16886,3,3,Automobile,no,41911,0.056,0.127,1
+TVSTU0225,studying,48,0.27,2.45,IT,TU Berlin,Bachelors,4,3,yes,yes,Ukraine,2,20,7419,3,4,Finance,yes,31910,0.043,0.113,2
+TVSTU0226,working,60,0.81,2.66,Business Analytics,TU Darmstadt,Masters,0,3,no,no,Romania,5,31,2240,4,2,Tech,yes,30660,0.029,0.113,3
+TVSTU0227,working,48,0.95,3.52,IT,TU München,Masters,2,5,no,no,Romania,5,24,7029,5,3,Non-profit,yes,47899,0.031,0.107,2
+TVSTU0228,working,36,0.91,2.83,Business Analytics,TU Berlin,Masters,1,2,no,no,Ukraine,3,31,7017,2,5,Startup,no,34954,0.038,0.12,1
+TVSTU0229,working,36,0.57,2.37,IT,TU München,Bachelors,4,1,no,no,Ukraine,4,27,11601,1,4,Startup,no,25861,0.021,0.12,3
+TVSTU0230,working,48,0.64,3.3,Computer Science,TU München,Masters,3,4,no,no,Romania,4,22,710,2,2,Manufacturing,yes,40743,0.024,0.133,2
+TVSTU0231,working,60,1.0,2.86,Data Science,TU Darmstadt,Masters,3,3,no,no,Romania,2,27,4030,4,1,Non-profit,yes,35487,0.023,0.113,4
+TVSTU0232,studying,48,0.01,3.06,Computer Science,TU München,Masters,0,2,no,no,Ukraine,1,21,828,2,4,Automobile,no,36709,0.059,0.1,5
+TVSTU0233,working,60,0.95,3.04,Data Science,TU München,Bachelors,4,3,no,no,Romania,1,28,5862,2,3,Government,yes,35126,0.033,0.113,4
+TVSTU0234,studying,36,0.06,2.64,Business Analytics,TU Darmstadt,Masters,4,4,no,no,Romania,3,27,16401,3,4,Automobile,no,33296,0.05,0.113,2
+TVSTU0235,working,36,0.59,3.01,IT,TU Berlin,Masters,3,3,yes,yes,Romania,1,30,4058,5,2,Academia,yes,34467,0.038,0.1,4
+TVSTU0236,dropout,36,0.05,1.77,Business Analytics,TU München,Bachelors,3,1,no,yes,Romania,3,31,7155,2,3,Consulting,yes,20000,0.039,0.127,2
+TVSTU0237,studying,36,0.63,2.89,Computer Science,TU München,Masters,1,3,no,no,Ukraine,3,27,17856,4,2,Startup,no,37242,0.034,0.107,4
+TVSTU0238,working,48,0.72,2.79,IT,TU Aachen,Bachelors,1,2,yes,yes,Romania,3,25,19680,1,3,Government,no,32892,0.041,0.127,3
+TVSTU0239,studying,60,0.74,2.4,Data Science,TU München,Masters,2,2,no,yes,Romania,2,29,19227,5,2,Consulting,no,26526,0.059,0.113,2
+TVSTU0240,dropout,36,0.09,2.32,Data Science,TU München,Bachelors,1,2,no,no,Ukraine,1,28,16045,2,4,Manufacturing,no,25993,0.048,0.113,3
+TVSTU0241,studying,36,0.79,2.64,Computer Science,TU Aachen,Bachelors,3,4,no,no,Ukraine,4,21,11694,5,5,Automobile,no,36382,0.054,0.087,3
+TVSTU0242,working,36,0.99,2.2,Computer Science,TU Aachen,Bachelors,1,1,yes,no,Romania,1,30,10052,1,5,Finance,no,26410,0.025,0.12,2
+TVSTU0243,studying,60,0.37,3.57,Computer Science,TU München,Bachelors,0,3,yes,no,Romania,1,22,4908,2,3,Finance,no,42249,0.059,0.107,5
+TVSTU0244,studying,60,0.59,3.31,Business Analytics,TU Berlin,Masters,3,4,no,yes,Ukraine,3,28,6780,1,4,Government,no,42755,0.043,0.127,2
+TVSTU0245,studying,60,0.39,3.71,IT,TU Darmstadt,Masters,1,5,yes,no,Ukraine,1,27,14435,1,1,Government,yes,47652,0.033,0.15,1
+TVSTU0246,studying,48,0.36,2.2,Business Analytics,TU Darmstadt,Masters,1,1,no,no,Ukraine,4,32,19934,3,4,Tech,yes,23413,0.038,0.107,3
+TVSTU0247,studying,60,0.72,2.91,Computer Science,TU Darmstadt,Masters,3,2,yes,no,Ukraine,1,28,1818,2,1,Tech,yes,33222,0.025,0.12,5
+TVSTU0248,working,60,0.27,2.64,Business Analytics,TU Berlin,Bachelors,3,3,no,yes,Romania,1,27,8652,3,5,Finance,yes,31142,0.021,0.1,3
+TVSTU0249,working,36,0.74,2.34,Business Analytics,TU Darmstadt,Masters,3,3,yes,yes,Romania,3,24,4352,3,4,Automobile,yes,31431,0.051,0.1,4
+TVSTU0250,studying,36,0.02,3.56,IT,TU Aachen,Masters,0,5,no,yes,Romania,4,31,7505,2,2,Government,no,43208,0.054,0.133,2
+TVSTU0251,working,60,0.65,2.45,Computer Science,TU Berlin,Bachelors,0,2,no,no,Romania,2,28,3957,4,1,Industry,yes,29494,0.042,0.133,1
+TVSTU0252,studying,48,0.51,3.48,Computer Science,TU Darmstadt,Masters,3,3,yes,yes,Ukraine,4,21,10823,1,4,Manufacturing,yes,42489,0.041,0.12,3
+TVSTU0253,studying,48,0.29,2.57,Computer Science,TU München,Bachelors,2,4,no,yes,Ukraine,3,30,14298,4,1,Automobile,no,36373,0.028,0.12,3
+TVSTU0254,studying,60,0.98,2.59,Computer Science,TU München,Masters,0,3,no,no,Romania,5,28,5656,5,5,Academia,no,32047,0.022,0.1,1
+TVSTU0255,studying,36,0.21,2.43,Data Science,TU Berlin,Masters,0,4,no,no,Ukraine,3,21,15639,5,2,Industry,yes,30117,0.045,0.1,4
+TVSTU0256,working,48,0.13,3.37,Business Analytics,TU Darmstadt,Bachelors,2,3,no,yes,Romania,2,29,2488,5,2,Academia,yes,36728,0.024,0.113,2
+TVSTU0257,studying,48,0.94,2.15,Data Science,TU Darmstadt,Bachelors,3,1,no,yes,Ukraine,4,26,2565,5,1,Non-profit,yes,22912,0.047,0.113,3
+TVSTU0258,dropout,60,0.34,3.31,Business Analytics,TU Berlin,Masters,0,5,yes,yes,Romania,1,26,9047,4,4,Automobile,yes,45108,0.028,0.087,5
+TVSTU0259,studying,48,0.33,3.74,IT,TU München,Masters,0,4,no,no,Romania,1,23,8403,3,5,Academia,no,47941,0.033,0.087,5
+TVSTU0260,working,36,0.98,3.41,Business Analytics,TU Berlin,Bachelors,0,4,no,no,Ukraine,2,22,15498,5,2,Tech,no,41961,0.054,0.113,2
+TVSTU0261,studying,36,0.94,2.32,Data Science,TU Aachen,Masters,3,1,no,yes,Romania,1,28,4352,2,5,Tech,no,24943,0.06,0.113,2
+TVSTU0262,working,48,0.43,2.22,Data Science,TU Berlin,Masters,1,1,yes,no,Romania,5,29,2957,1,3,Startup,yes,24544,0.023,0.127,3
+TVSTU0263,working,48,0.48,2.47,Data Science,TU Berlin,Bachelors,1,2,no,yes,Romania,1,20,1105,1,4,Consulting,yes,27678,0.052,0.107,5
+TVSTU0264,studying,60,0.37,3.1,Computer Science,TU München,Bachelors,3,4,no,yes,Ukraine,3,25,15521,1,4,Non-profit,no,41441,0.05,0.12,3
+TVSTU0265,studying,60,0.63,3.11,IT,TU Berlin,Bachelors,1,3,no,no,Romania,3,25,5949,1,4,Tech,yes,35382,0.04,0.107,5
+TVSTU0266,dropout,60,0.38,2.85,IT,TU Aachen,Bachelors,1,4,no,no,Romania,4,29,17740,4,4,Automobile,no,36027,0.031,0.1,3
+TVSTU0267,studying,60,0.66,2.85,Computer Science,TU München,Masters,0,4,no,no,Ukraine,2,31,13178,1,5,Government,yes,35160,0.037,0.1,5
+TVSTU0268,studying,36,0.76,3.1,Data Science,TU Aachen,Masters,3,4,yes,yes,Ukraine,2,21,13221,3,2,Industry,no,38041,0.059,0.133,1
+TVSTU0269,working,36,0.73,2.92,Computer Science,TU Darmstadt,Bachelors,1,2,no,no,Romania,5,26,10117,3,1,Non-profit,yes,30886,0.024,0.14,1
+TVSTU0270,studying,48,0.07,2.45,IT,TU Aachen,Masters,3,3,no,yes,Romania,2,24,2452,3,4,Manufacturing,yes,29627,0.03,0.12,1
+TVSTU0271,working,36,0.55,2.83,Computer Science,TU Darmstadt,Masters,4,2,yes,no,Romania,4,24,8623,1,2,Industry,no,31653,0.051,0.127,4
+TVSTU0272,studying,60,0.42,2.26,Business Analytics,TU Darmstadt,Bachelors,4,1,yes,no,Romania,4,32,17878,1,5,Finance,yes,23808,0.046,0.107,4
+TVSTU0273,studying,48,0.69,2.73,IT,TU München,Masters,3,4,yes,no,Ukraine,4,20,167,4,2,Automobile,no,36505,0.037,0.107,4
+TVSTU0274,working,36,0.58,2.85,Business Analytics,TU Berlin,Bachelors,3,4,no,yes,Romania,1,23,6200,2,4,Startup,yes,36142,0.049,0.1,5
+TVSTU0275,studying,48,0.38,3.38,Data Science,TU München,Bachelors,0,5,yes,yes,Romania,2,30,5073,3,3,Industry,no,43166,0.042,0.1,5
+TVSTU0276,working,48,0.33,2.7,IT,TU Darmstadt,Masters,0,3,no,no,Ukraine,3,25,7996,5,4,Non-profit,yes,35805,0.043,0.1,2
+TVSTU0277,working,36,0.09,3.08,IT,TU Aachen,Masters,4,3,yes,yes,Ukraine,3,24,12235,1,2,Tech,no,36037,0.055,0.12,5
+TVSTU0278,dropout,48,0.08,3.12,IT,TU Darmstadt,Masters,2,2,yes,no,Romania,3,20,17958,5,2,Manufacturing,yes,33664,0.045,0.113,2
+TVSTU0279,working,60,0.7,3.32,Data Science,TU Aachen,Bachelors,4,4,yes,no,Ukraine,2,21,19486,1,5,Industry,yes,43803,0.024,0.113,3
+TVSTU0280,studying,48,0.57,2.99,IT,TU Aachen,Bachelors,0,4,no,no,Ukraine,1,24,17293,5,4,Government,no,36556,0.046,0.093,3
+TVSTU0281,studying,48,0.99,4.0,IT,TU München,Bachelors,1,5,no,yes,Romania,1,26,3910,1,1,Non-profit,yes,51637,0.053,0.14,3
+TVSTU0282,studying,48,0.34,3.27,Business Analytics,TU Berlin,Masters,2,4,yes,no,Ukraine,4,32,12585,5,5,Startup,yes,42828,0.028,0.08,4
+TVSTU0283,dropout,36,0.16,3.55,IT,TU Berlin,Masters,3,5,no,yes,Romania,4,22,17246,1,2,Finance,no,45599,0.037,0.133,3
+TVSTU0284,working,36,0.54,3.25,Computer Science,TU München,Bachelors,2,4,no,no,Romania,3,29,16841,5,2,Tech,yes,41531,0.051,0.093,5
+TVSTU0285,studying,60,0.97,2.5,Data Science,TU Berlin,Bachelors,0,3,yes,yes,Ukraine,4,31,2715,2,2,Government,no,33889,0.021,0.12,4
+TVSTU0286,studying,36,0.94,2.42,Computer Science,TU Darmstadt,Masters,3,2,yes,no,Ukraine,3,32,16915,3,1,Government,no,30133,0.057,0.113,5
+TVSTU0287,studying,60,0.58,2.86,Computer Science,TU München,Bachelors,0,4,yes,yes,Ukraine,2,25,7129,2,3,Manufacturing,yes,38711,0.043,0.12,3
+TVSTU0288,studying,36,0.94,2.84,Business Analytics,TU Aachen,Bachelors,3,3,yes,yes,Ukraine,4,21,5537,2,2,Automobile,no,32243,0.03,0.12,4
+TVSTU0289,studying,36,0.22,3.35,Computer Science,TU Berlin,Masters,0,3,yes,no,Ukraine,2,29,3426,2,5,Non-profit,yes,39851,0.039,0.1,4
+TVSTU0290,studying,48,0.86,3.47,Business Analytics,TU München,Masters,3,5,no,no,Romania,1,26,10398,2,3,Finance,no,46702,0.029,0.113,4
+TVSTU0291,studying,60,0.83,3.38,IT,TU München,Bachelors,2,3,no,no,Ukraine,4,29,9189,2,4,Tech,yes,42506,0.048,0.1,5
+TVSTU0292,working,60,0.33,2.64,Data Science,TU Aachen,Bachelors,2,4,no,no,Ukraine,3,27,2315,2,4,Startup,no,32086,0.044,0.107,4
+TVSTU0293,working,60,0.57,3.57,Computer Science,TU München,Masters,4,5,no,yes,Romania,4,30,15816,1,1,Tech,no,44374,0.021,0.147,2
+TVSTU0294,studying,36,0.05,2.93,Business Analytics,TU Aachen,Masters,0,4,yes,no,Romania,2,23,8494,1,4,Government,no,36912,0.027,0.12,3
+TVSTU0295,dropout,60,0.04,2.87,IT,TU Aachen,Bachelors,0,3,yes,yes,Romania,5,31,9638,4,1,Automobile,no,35748,0.022,0.133,1
+TVSTU0296,dropout,36,0.0,2.37,Computer Science,TU Berlin,Masters,2,3,no,yes,Ukraine,3,26,9520,5,5,Industry,yes,30930,0.026,0.087,3
+TVSTU0297,studying,48,0.15,2.47,IT,TU Darmstadt,Bachelors,3,2,no,yes,Ukraine,4,29,5757,5,5,Non-profit,no,25752,0.025,0.1,1
+TVSTU0298,studying,48,0.34,2.83,IT,TU Darmstadt,Masters,0,2,yes,yes,Ukraine,1,21,3599,3,5,Academia,no,34274,0.029,0.087,5
+TVSTU0299,working,36,0.06,2.24,Business Analytics,TU Darmstadt,Bachelors,0,1,no,no,Ukraine,1,24,3588,4,1,Finance,yes,25659,0.051,0.12,3
+TVSTU0300,studying,36,0.12,2.78,Business Analytics,TU Berlin,Bachelors,3,3,yes,no,Ukraine,1,23,1290,3,5,Academia,no,33524,0.036,0.113,1
+TVSTU0301,studying,36,0.38,3.38,IT,TU Darmstadt,Bachelors,4,3,yes,yes,Ukraine,1,30,2929,5,2,Consulting,yes,37669,0.046,0.113,2
+TVSTU0302,studying,60,0.52,2.58,Computer Science,TU München,Masters,2,3,no,no,Romania,1,28,10271,5,2,Academia,no,30159,0.027,0.113,2
+TVSTU0303,working,36,0.15,3.12,IT,TU Darmstadt,Bachelors,1,4,yes,yes,Ukraine,1,21,11968,2,1,Consulting,yes,39892,0.035,0.127,4
+TVSTU0304,studying,60,0.22,3.57,IT,TU Aachen,Bachelors,0,3,no,yes,Romania,4,28,2997,2,5,Industry,no,43503,0.028,0.107,3
+TVSTU0305,working,48,0.25,2.82,Business Analytics,TU Aachen,Bachelors,2,2,yes,yes,Romania,3,29,7790,2,1,Startup,yes,29698,0.04,0.147,1
+TVSTU0306,working,60,0.02,3.38,Data Science,TU Aachen,Bachelors,3,4,no,yes,Ukraine,2,23,17065,3,4,Manufacturing,no,44458,0.037,0.113,2
+TVSTU0307,studying,60,0.71,2.84,Data Science,TU Darmstadt,Bachelors,4,2,no,yes,Ukraine,3,25,16142,4,3,Government,yes,30222,0.058,0.113,2
+TVSTU0308,studying,36,0.0,3.11,Computer Science,TU Aachen,Bachelors,3,2,no,no,Romania,1,31,5197,3,2,Tech,no,32600,0.027,0.127,2
+TVSTU0309,working,60,0.81,2.78,Data Science,TU München,Masters,4,2,no,yes,Romania,3,29,9609,5,2,Academia,no,33177,0.045,0.107,3
+TVSTU0310,studying,48,0.38,3.62,IT,TU Berlin,Masters,0,3,no,yes,Ukraine,3,32,9429,4,3,Non-profit,no,42322,0.02,0.093,5
+TVSTU0311,working,36,0.92,3.15,IT,TU Berlin,Bachelors,4,4,no,no,Romania,1,23,16089,4,1,Manufacturing,no,39061,0.043,0.133,1
+TVSTU0312,studying,48,0.6,2.75,Data Science,TU Darmstadt,Bachelors,0,3,yes,yes,Romania,4,21,2319,5,3,Government,yes,30903,0.029,0.087,5
+TVSTU0313,working,60,0.08,2.88,Business Analytics,TU Darmstadt,Bachelors,0,4,no,no,Romania,1,25,5077,4,2,Finance,yes,38928,0.059,0.127,1
+TVSTU0314,studying,48,0.77,3.47,IT,TU München,Bachelors,3,5,yes,no,Romania,5,25,5409,3,3,Government,yes,42197,0.042,0.113,3
+TVSTU0315,studying,48,0.1,2.63,Computer Science,TU Aachen,Bachelors,1,3,yes,no,Ukraine,4,23,13009,2,2,Academia,yes,34393,0.048,0.133,2
+TVSTU0316,working,36,0.66,2.17,Data Science,TU München,Masters,4,2,yes,no,Romania,4,29,8129,2,3,Non-profit,no,26659,0.037,0.107,5
+TVSTU0317,studying,60,0.0,2.94,Data Science,TU München,Bachelors,1,4,no,no,Ukraine,2,27,7531,5,1,Academia,yes,35541,0.051,0.107,4
+TVSTU0318,studying,36,0.68,2.77,IT,TU München,Bachelors,3,2,no,no,Ukraine,2,25,11493,1,4,Consulting,yes,30401,0.021,0.12,3
+TVSTU0319,working,36,0.34,3.42,Computer Science,TU München,Bachelors,4,4,no,yes,Ukraine,2,31,6734,4,4,Startup,yes,41225,0.021,0.1,3
+TVSTU0320,studying,60,0.71,3.28,Data Science,TU Aachen,Masters,4,3,no,no,Ukraine,2,30,19376,2,5,Non-profit,no,38441,0.057,0.093,5
+TVSTU0321,studying,60,0.58,2.63,Computer Science,TU Darmstadt,Bachelors,2,3,no,no,Romania,2,26,12775,1,4,Consulting,yes,30307,0.032,0.127,2
+TVSTU0322,studying,60,0.08,3.37,Data Science,TU Berlin,Masters,4,5,yes,no,Romania,1,26,15409,5,3,Finance,no,41335,0.034,0.113,1
+TVSTU0323,working,36,0.98,3.08,Data Science,TU Aachen,Bachelors,2,3,yes,no,Romania,2,27,10202,3,1,Academia,no,37521,0.033,0.113,5
+TVSTU0324,studying,60,0.82,3.05,Data Science,TU Berlin,Masters,0,4,yes,no,Ukraine,1,32,1739,5,1,Consulting,yes,37820,0.024,0.107,4
+TVSTU0325,working,60,0.33,3.02,Computer Science,TU München,Bachelors,0,2,no,no,Ukraine,2,32,2576,5,3,Government,no,31852,0.049,0.107,2
+TVSTU0326,studying,60,0.61,2.82,Business Analytics,TU München,Bachelors,0,4,yes,no,Ukraine,3,30,9868,5,2,Finance,no,33275,0.035,0.093,5
+TVSTU0327,studying,60,0.89,2.62,Data Science,TU Darmstadt,Bachelors,3,4,no,no,Ukraine,3,23,3144,5,5,Tech,yes,37064,0.054,0.073,5
+TVSTU0328,studying,36,0.95,2.35,Computer Science,TU Aachen,Bachelors,3,2,yes,no,Romania,3,32,19141,5,5,Startup,yes,25192,0.025,0.1,1
+TVSTU0329,studying,36,0.94,2.35,Business Analytics,TU München,Masters,1,3,yes,yes,Romania,1,26,8972,5,4,Automobile,no,27851,0.03,0.087,4
+TVSTU0330,studying,36,0.86,3.7,Business Analytics,TU Darmstadt,Masters,2,4,yes,yes,Ukraine,1,32,3637,1,3,Academia,no,44954,0.047,0.14,1
+TVSTU0331,working,36,0.91,3.18,Data Science,TU München,Bachelors,1,3,no,no,Romania,1,27,6424,3,4,Finance,yes,36533,0.034,0.1,4
+TVSTU0332,dropout,36,0.45,2.8,Computer Science,TU Aachen,Masters,0,3,yes,yes,Ukraine,1,25,14301,1,4,Government,yes,33490,0.027,0.12,3
+TVSTU0333,studying,48,0.47,2.81,IT,TU München,Bachelors,4,3,yes,yes,Romania,1,29,13330,1,1,Government,yes,35331,0.03,0.127,5
+TVSTU0334,studying,36,0.84,2.83,Business Analytics,TU Berlin,Masters,3,4,yes,yes,Romania,5,32,6745,5,1,Consulting,no,36883,0.031,0.1,5
+TVSTU0335,working,60,0.65,2.81,Data Science,TU Aachen,Masters,0,4,yes,yes,Ukraine,3,22,19916,5,5,Consulting,no,33795,0.023,0.073,5
+TVSTU0336,studying,36,0.43,2.53,IT,TU München,Bachelors,0,2,no,yes,Romania,5,23,1653,5,1,Consulting,yes,26787,0.051,0.113,3
+TVSTU0337,studying,48,0.91,3.63,Data Science,TU Aachen,Bachelors,2,5,no,yes,Romania,4,30,2769,2,3,Tech,no,43621,0.047,0.12,3
+TVSTU0338,studying,48,0.38,3.18,Data Science,TU Berlin,Bachelors,3,3,yes,no,Romania,5,21,16870,2,3,Academia,no,38345,0.038,0.12,3
+TVSTU0339,studying,48,0.56,2.73,Data Science,TU Darmstadt,Bachelors,2,4,yes,no,Ukraine,3,21,7948,3,4,Automobile,no,34257,0.054,0.093,5
+TVSTU0340,working,48,0.38,3.48,Business Analytics,TU München,Masters,0,4,yes,yes,Ukraine,4,30,6232,4,5,Consulting,yes,41271,0.043,0.08,5
+TVSTU0341,working,48,0.97,2.26,Business Analytics,TU München,Bachelors,4,3,yes,yes,Ukraine,2,28,19512,3,3,Academia,yes,28313,0.043,0.113,3
+TVSTU0342,working,48,0.11,3.12,Computer Science,TU Darmstadt,Bachelors,4,3,yes,yes,Romania,3,21,17563,3,2,Finance,no,38717,0.031,0.127,2
+TVSTU0343,working,36,0.79,3.58,Computer Science,TU Darmstadt,Masters,4,4,no,no,Ukraine,1,22,7036,4,3,Non-profit,yes,45573,0.038,0.12,1
+TVSTU0344,studying,48,0.28,2.71,Computer Science,TU München,Bachelors,1,2,yes,no,Ukraine,2,24,1425,4,4,Government,yes,28829,0.023,0.087,5
+TVSTU0345,studying,48,0.32,2.95,Data Science,TU Darmstadt,Bachelors,0,2,yes,yes,Romania,4,24,6421,5,3,Non-profit,yes,36286,0.044,0.113,1
+TVSTU0346,studying,36,0.4,3.43,Computer Science,TU Aachen,Masters,1,5,yes,no,Ukraine,3,24,313,3,4,Startup,no,46189,0.025,0.113,2
+TVSTU0347,studying,48,0.05,3.54,Data Science,TU Aachen,Bachelors,2,4,no,yes,Ukraine,3,26,5709,3,1,Non-profit,yes,44541,0.054,0.133,2
+TVSTU0348,working,48,0.57,2.87,Data Science,TU Berlin,Bachelors,2,3,yes,yes,Ukraine,4,30,19356,1,4,Non-profit,yes,34800,0.046,0.127,2
+TVSTU0349,working,60,0.53,2.54,IT,TU Berlin,Masters,2,4,no,no,Romania,2,20,9995,4,4,Consulting,no,31027,0.039,0.113,1
+TVSTU0350,studying,48,0.88,3.19,Business Analytics,TU Aachen,Masters,4,2,no,yes,Ukraine,1,27,16589,2,5,Consulting,no,36860,0.047,0.1,4
+TVSTU0351,working,48,0.79,3.01,IT,TU München,Bachelors,0,2,no,no,Romania,1,28,5069,3,5,Startup,yes,34475,0.021,0.093,4
+TVSTU0352,studying,60,0.51,2.78,Computer Science,TU Aachen,Masters,0,4,no,yes,Ukraine,4,28,42,2,1,Tech,no,33216,0.027,0.14,2
+TVSTU0353,working,48,0.91,3.01,Computer Science,TU München,Bachelors,2,3,yes,no,Ukraine,3,21,16626,3,4,Automobile,yes,38389,0.05,0.093,5
+TVSTU0354,working,60,0.77,3.07,Computer Science,TU Darmstadt,Masters,0,4,no,no,Ukraine,4,23,15921,4,2,Non-profit,yes,37150,0.028,0.107,4
+TVSTU0355,studying,60,0.67,3.1,Data Science,TU Aachen,Bachelors,4,2,no,no,Romania,5,23,15156,4,5,Consulting,yes,37494,0.04,0.087,4
+TVSTU0356,working,60,0.5,3.77,Computer Science,TU Berlin,Masters,0,4,no,no,Romania,3,22,9692,3,1,Automobile,yes,43206,0.047,0.127,3
+TVSTU0357,working,36,0.05,3.07,Business Analytics,TU Aachen,Masters,3,3,no,no,Romania,4,29,19578,5,3,Tech,no,37429,0.034,0.1,3
+TVSTU0358,dropout,36,0.53,3.07,IT,TU München,Masters,3,3,no,yes,Ukraine,1,25,1999,5,4,Finance,no,34026,0.054,0.093,3
+TVSTU0359,studying,36,0.1,2.99,IT,TU Berlin,Bachelors,0,4,yes,yes,Romania,5,20,10131,5,5,Manufacturing,no,37488,0.04,0.08,4
+TVSTU0360,studying,48,0.68,2.8,Business Analytics,TU Berlin,Bachelors,0,3,no,no,Ukraine,1,22,14274,1,1,Automobile,no,33454,0.032,0.14,3
+TVSTU0361,dropout,48,0.2,3.29,Data Science,TU Berlin,Bachelors,2,5,no,yes,Romania,5,22,6698,1,4,Automobile,no,44034,0.033,0.127,2
+TVSTU0362,studying,36,0.92,2.42,Business Analytics,TU München,Bachelors,0,3,no,yes,Romania,3,24,11135,2,2,Government,no,30686,0.059,0.133,2
+TVSTU0363,studying,48,0.34,2.17,Business Analytics,TU München,Masters,3,3,no,no,Ukraine,3,29,9565,4,4,Non-profit,no,27754,0.058,0.113,1
+TVSTU0364,dropout,60,0.05,2.68,Business Analytics,TU München,Bachelors,1,2,yes,yes,Ukraine,3,22,12835,3,4,Startup,yes,33162,0.022,0.12,1
+TVSTU0365,working,60,0.8,2.45,Computer Science,TU München,Masters,1,3,yes,no,Ukraine,4,32,19243,5,1,Startup,no,32792,0.03,0.127,1
+TVSTU0366,working,36,0.34,2.92,Business Analytics,TU München,Masters,3,3,no,no,Ukraine,3,29,2752,2,2,Government,no,33017,0.055,0.113,5
+TVSTU0367,studying,60,0.2,2.82,Data Science,TU Berlin,Masters,0,3,no,yes,Ukraine,1,22,19494,2,4,Startup,yes,35575,0.058,0.127,1
+TVSTU0368,working,36,0.74,3.08,Computer Science,TU Berlin,Bachelors,0,3,yes,no,Ukraine,1,28,8253,1,3,Consulting,yes,35540,0.021,0.113,5
+TVSTU0369,working,60,0.35,3.18,Data Science,TU Aachen,Masters,1,3,yes,no,Romania,3,28,3249,4,1,Manufacturing,no,36549,0.043,0.133,1
+TVSTU0370,dropout,48,0.07,3.31,IT,TU München,Bachelors,1,3,no,no,Ukraine,4,27,16941,2,3,Government,yes,39494,0.049,0.113,4
+TVSTU0371,studying,36,0.97,3.01,Data Science,TU München,Masters,1,3,no,yes,Romania,2,23,13942,1,2,Non-profit,no,34230,0.035,0.12,5
+TVSTU0372,dropout,36,0.16,3.93,IT,TU Darmstadt,Masters,3,4,yes,no,Romania,5,32,15534,3,5,Consulting,yes,49864,0.05,0.087,5
+TVSTU0373,studying,36,0.77,2.36,Business Analytics,TU München,Masters,0,1,no,yes,Ukraine,1,32,10104,5,3,Finance,no,28179,0.024,0.113,1
+TVSTU0374,working,60,0.88,2.46,Data Science,TU Berlin,Bachelors,4,2,yes,no,Romania,5,21,10222,4,2,Government,yes,26460,0.03,0.127,1
+TVSTU0375,studying,36,0.25,2.05,Data Science,TU Aachen,Masters,4,2,yes,yes,Ukraine,2,27,2378,4,4,Industry,yes,21622,0.039,0.1,3
+TVSTU0376,studying,36,0.31,2.16,Business Analytics,TU München,Masters,4,2,yes,no,Ukraine,1,24,18336,5,2,Industry,yes,28106,0.021,0.1,4
+TVSTU0377,studying,48,0.51,3.48,Business Analytics,TU Aachen,Masters,1,5,yes,yes,Ukraine,1,24,5559,2,4,Startup,yes,46824,0.035,0.113,3
+TVSTU0378,studying,60,0.14,3.39,IT,TU München,Masters,3,5,yes,yes,Romania,1,25,8210,4,4,Finance,yes,40912,0.031,0.1,3
+TVSTU0379,studying,60,0.52,2.53,Data Science,TU Darmstadt,Bachelors,2,3,no,yes,Ukraine,1,23,7203,5,4,Industry,yes,29336,0.021,0.107,1
+TVSTU0380,working,48,0.5,3.17,IT,TU Berlin,Bachelors,1,3,yes,yes,Romania,3,26,1953,4,3,Finance,no,38596,0.024,0.093,5
+TVSTU0381,studying,48,0.9,2.46,Business Analytics,TU Darmstadt,Masters,2,4,no,yes,Romania,1,20,13379,1,3,Tech,yes,33510,0.032,0.127,3
+TVSTU0382,studying,36,0.95,3.12,Computer Science,TU Aachen,Bachelors,4,4,yes,yes,Romania,1,26,15251,1,3,Tech,yes,39790,0.057,0.113,5
+TVSTU0383,studying,60,0.02,3.37,Business Analytics,TU Berlin,Bachelors,3,5,no,no,Romania,1,26,17883,5,3,Finance,yes,42798,0.023,0.113,1
+TVSTU0384,studying,60,0.31,2.67,Computer Science,TU Aachen,Masters,2,4,yes,no,Ukraine,3,22,9951,1,2,Finance,yes,35955,0.058,0.14,2
+TVSTU0385,dropout,60,0.22,3.07,Computer Science,TU München,Masters,1,3,no,yes,Ukraine,1,30,16700,1,5,Manufacturing,no,36482,0.041,0.127,1
+TVSTU0386,working,48,0.42,3.0,Data Science,TU Darmstadt,Bachelors,3,2,no,yes,Romania,3,26,9115,3,2,Industry,no,33219,0.046,0.133,1
+TVSTU0387,working,48,0.24,2.66,IT,TU Darmstadt,Masters,4,4,yes,no,Ukraine,3,31,4992,2,2,Industry,no,32114,0.027,0.127,3
+TVSTU0388,studying,36,0.76,2.84,Computer Science,TU Berlin,Bachelors,2,4,no,no,Romania,5,24,65,5,1,Automobile,yes,35151,0.052,0.12,2
+TVSTU0389,working,60,0.69,3.06,Data Science,TU Aachen,Bachelors,4,2,yes,no,Ukraine,1,21,2594,2,3,Industry,yes,36789,0.058,0.127,2
+TVSTU0390,working,36,0.17,3.57,Data Science,TU Berlin,Masters,0,4,yes,yes,Ukraine,2,27,6624,1,3,Consulting,yes,43839,0.057,0.133,2
+TVSTU0391,studying,60,0.29,3.17,IT,TU München,Bachelors,2,2,yes,yes,Romania,5,27,10392,4,1,Government,yes,35971,0.047,0.12,3
+TVSTU0392,working,48,0.08,2.98,IT,TU Aachen,Masters,1,4,yes,no,Romania,4,23,16641,2,3,Industry,yes,35645,0.049,0.127,2
+TVSTU0393,working,60,0.11,3.1,IT,TU München,Bachelors,3,3,yes,yes,Romania,3,29,14344,3,1,Academia,no,39760,0.053,0.12,4
+TVSTU0394,studying,60,0.32,3.45,Data Science,TU Aachen,Bachelors,2,5,yes,no,Romania,2,32,12778,1,2,Consulting,no,46763,0.05,0.147,1
+TVSTU0395,dropout,60,0.08,2.26,Computer Science,TU München,Bachelors,1,3,no,yes,Ukraine,4,32,3503,5,2,Automobile,yes,27784,0.059,0.1,4
+TVSTU0396,studying,36,0.13,2.23,IT,TU Aachen,Masters,1,2,yes,no,Ukraine,3,23,4261,3,2,Startup,yes,29226,0.021,0.107,5
+TVSTU0397,working,48,0.43,3.39,Data Science,TU Darmstadt,Bachelors,3,4,yes,yes,Ukraine,4,20,6761,5,1,Non-profit,yes,42165,0.023,0.113,3
+TVSTU0398,studying,36,0.02,3.25,Computer Science,TU Berlin,Masters,3,4,yes,no,Romania,5,22,2263,3,4,Consulting,no,39705,0.02,0.093,5
+TVSTU0399,studying,36,0.53,4.0,Computer Science,TU Darmstadt,Bachelors,0,5,no,no,Ukraine,3,30,9111,2,2,Tech,yes,47237,0.042,0.127,3
+TVSTU0400,studying,60,0.09,2.89,Computer Science,TU Berlin,Masters,0,4,yes,no,Romania,2,23,7316,5,1,Non-profit,no,35103,0.022,0.107,4
+TVSTU0401,working,60,0.22,1.99,IT,TU Berlin,Masters,3,2,yes,yes,Ukraine,2,20,13026,1,4,Academia,no,24917,0.044,0.127,2
+TVSTU0402,working,60,0.4,3.27,Business Analytics,TU Darmstadt,Bachelors,1,4,yes,no,Romania,3,22,6891,4,1,Academia,no,39475,0.051,0.113,4
+TVSTU0403,dropout,48,0.03,3.41,Computer Science,TU Darmstadt,Masters,2,3,no,no,Romania,1,26,19853,4,2,Startup,no,42787,0.034,0.12,2
+TVSTU0404,working,48,0.26,2.58,Computer Science,TU München,Masters,3,3,no,yes,Ukraine,4,32,19961,1,3,Academia,no,31122,0.041,0.12,4
+TVSTU0405,studying,60,0.22,2.28,Data Science,TU München,Bachelors,3,2,yes,no,Ukraine,2,27,18417,4,4,Non-profit,yes,26546,0.022,0.1,3
+TVSTU0406,studying,36,0.25,3.29,IT,TU Berlin,Masters,0,4,yes,yes,Romania,1,32,19581,2,5,Automobile,yes,40379,0.05,0.093,5
+TVSTU0407,working,36,0.96,2.75,Business Analytics,TU Darmstadt,Bachelors,3,2,yes,no,Ukraine,1,26,1281,2,5,Finance,no,31309,0.027,0.12,1
+TVSTU0408,studying,48,0.09,2.64,IT,TU Aachen,Bachelors,1,3,no,yes,Ukraine,3,20,8702,2,5,Industry,no,31167,0.02,0.093,5
+TVSTU0409,studying,60,0.44,2.58,Computer Science,TU München,Bachelors,4,3,no,no,Romania,1,29,4567,1,2,Finance,yes,34757,0.026,0.14,2
+TVSTU0410,studying,60,0.85,3.55,Data Science,TU Aachen,Bachelors,1,4,no,no,Ukraine,1,23,9392,5,2,Automobile,yes,44046,0.049,0.12,1
+TVSTU0411,studying,60,0.99,3.1,Business Analytics,TU Berlin,Masters,0,4,no,no,Ukraine,4,24,10886,2,5,Government,yes,41071,0.059,0.093,5
+TVSTU0412,dropout,60,0.06,2.32,Data Science,TU München,Bachelors,2,1,no,no,Ukraine,1,31,15209,3,5,Manufacturing,no,23463,0.054,0.087,5
+TVSTU0413,studying,48,0.86,2.64,Business Analytics,TU Darmstadt,Bachelors,4,3,yes,yes,Romania,4,24,5119,4,2,Consulting,yes,30396,0.049,0.107,4
+TVSTU0414,studying,60,0.98,2.55,Business Analytics,TU München,Masters,4,3,no,yes,Ukraine,3,28,10868,3,2,Tech,no,32293,0.039,0.107,5
+TVSTU0415,studying,36,0.76,2.77,IT,TU Aachen,Bachelors,1,3,no,no,Romania,1,25,2213,3,1,Government,no,34081,0.028,0.12,4
+TVSTU0416,studying,36,0.03,2.8,Computer Science,TU Berlin,Bachelors,0,2,yes,no,Ukraine,1,20,7703,1,1,Finance,no,32675,0.032,0.133,4
+TVSTU0417,studying,48,0.88,3.07,IT,TU Aachen,Masters,3,2,no,no,Ukraine,1,30,1532,3,1,Startup,yes,35412,0.027,0.113,5
+TVSTU0418,studying,60,0.53,1.98,Data Science,TU Aachen,Bachelors,0,3,no,yes,Romania,1,23,1291,3,2,Manufacturing,yes,25647,0.039,0.113,4
+TVSTU0419,studying,48,0.69,3.27,Business Analytics,TU Aachen,Masters,0,5,yes,yes,Romania,3,29,6231,5,4,Industry,no,40160,0.04,0.093,3
+TVSTU0420,studying,48,0.75,2.21,IT,TU Aachen,Bachelors,4,3,no,yes,Ukraine,2,25,10869,3,4,Manufacturing,yes,28149,0.022,0.107,3
+TVSTU0421,working,36,0.47,3.78,Data Science,TU Aachen,Masters,4,5,no,no,Romania,3,26,2458,5,1,Consulting,no,46544,0.044,0.113,3
+TVSTU0422,studying,48,0.84,2.86,Data Science,TU Berlin,Masters,2,4,no,no,Romania,1,21,16569,3,2,Manufacturing,yes,39468,0.058,0.113,4
+TVSTU0423,studying,36,0.71,2.65,IT,TU Aachen,Masters,3,4,no,no,Romania,5,26,9344,3,2,Academia,no,35564,0.052,0.12,3
+TVSTU0424,dropout,48,0.04,3.7,Data Science,TU Darmstadt,Bachelors,3,4,yes,no,Ukraine,4,22,13844,1,3,Startup,yes,46046,0.035,0.113,5
+TVSTU0425,working,48,0.07,2.98,Data Science,TU Berlin,Bachelors,1,3,no,yes,Ukraine,3,28,15534,3,5,Tech,yes,35026,0.048,0.107,2
+TVSTU0426,studying,48,0.37,3.37,IT,TU Berlin,Bachelors,4,4,no,yes,Ukraine,3,27,5632,3,5,Academia,yes,41297,0.035,0.093,4
+TVSTU0427,studying,60,0.35,2.89,Computer Science,TU Aachen,Masters,3,2,no,no,Ukraine,4,27,18264,3,3,Finance,yes,31008,0.059,0.113,3
+TVSTU0428,studying,60,0.61,2.42,Computer Science,TU Aachen,Masters,3,4,yes,no,Ukraine,4,27,4386,1,3,Automobile,no,30497,0.023,0.113,5
+TVSTU0429,working,48,0.29,3.49,Computer Science,TU München,Bachelors,0,4,no,yes,Romania,1,26,4590,5,1,Academia,no,41076,0.031,0.113,3
+TVSTU0430,working,48,0.61,2.84,Computer Science,TU München,Bachelors,3,4,yes,no,Romania,5,20,16000,5,5,Academia,no,35637,0.022,0.08,4
+TVSTU0431,studying,60,0.91,2.53,Computer Science,TU Berlin,Masters,1,3,yes,yes,Ukraine,3,24,8470,5,3,Non-profit,no,28483,0.036,0.107,2
+TVSTU0432,studying,48,0.94,3.03,Computer Science,TU München,Bachelors,3,4,yes,no,Romania,5,24,413,4,2,Tech,yes,38330,0.026,0.1,5
+TVSTU0433,working,60,0.5,2.97,Business Analytics,TU München,Masters,0,3,no,yes,Romania,1,27,17201,5,2,Industry,no,35407,0.041,0.093,5
+TVSTU0434,studying,48,0.35,3.37,Computer Science,TU Berlin,Masters,3,3,yes,no,Romania,1,23,16198,2,2,Manufacturing,no,40133,0.038,0.127,3
+TVSTU0435,studying,48,0.4,3.62,Computer Science,TU München,Bachelors,2,3,no,no,Ukraine,4,27,16594,2,1,Consulting,yes,41220,0.053,0.14,2
+TVSTU0436,studying,60,0.26,2.91,Data Science,TU Aachen,Masters,3,2,yes,no,Ukraine,2,21,7281,2,2,Manufacturing,no,34331,0.03,0.14,1
+TVSTU0437,dropout,60,0.03,3.38,Data Science,TU Darmstadt,Bachelors,4,3,yes,yes,Romania,5,25,150,2,2,Startup,no,38939,0.03,0.12,4
+TVSTU0438,working,60,0.91,3.25,Business Analytics,TU Aachen,Masters,4,3,no,yes,Ukraine,3,22,3059,2,3,Tech,no,37362,0.06,0.133,1
+TVSTU0439,studying,60,0.67,2.98,Computer Science,TU Berlin,Masters,0,3,yes,no,Romania,1,29,8015,3,2,Industry,no,35141,0.05,0.107,5
+TVSTU0440,studying,60,0.79,3.35,IT,TU Berlin,Bachelors,0,3,yes,yes,Ukraine,1,26,379,2,5,Tech,yes,38459,0.038,0.12,1
+TVSTU0441,working,60,0.02,3.33,IT,TU Berlin,Bachelors,4,4,yes,no,Romania,3,20,12772,5,4,Government,yes,40550,0.056,0.087,4
+TVSTU0442,studying,48,0.24,3.2,Business Analytics,TU Aachen,Masters,2,3,yes,no,Ukraine,1,32,8264,1,1,Industry,no,40614,0.034,0.147,2
+TVSTU0443,dropout,60,0.07,2.42,Computer Science,TU München,Bachelors,1,2,yes,no,Romania,5,29,18257,3,4,Government,no,29357,0.049,0.1,4
+TVSTU0444,studying,36,0.06,2.36,Data Science,TU Darmstadt,Masters,2,3,yes,no,Ukraine,4,29,12301,3,3,Consulting,yes,28822,0.024,0.12,2
+TVSTU0445,studying,48,0.01,3.08,Business Analytics,TU München,Bachelors,2,2,no,yes,Ukraine,2,24,19778,2,2,Startup,no,34056,0.032,0.12,4
+TVSTU0446,studying,60,0.27,3.02,Computer Science,TU München,Bachelors,3,3,no,no,Ukraine,2,23,288,3,3,Automobile,yes,39060,0.031,0.113,3
+TVSTU0447,studying,60,0.06,3.24,Business Analytics,TU München,Bachelors,2,4,yes,yes,Romania,4,26,18236,1,2,Academia,yes,40884,0.028,0.147,1
+TVSTU0448,studying,36,0.39,3.02,Computer Science,TU Darmstadt,Bachelors,3,3,no,no,Ukraine,3,27,15822,4,5,Academia,no,34518,0.033,0.1,2
+TVSTU0449,studying,48,0.6,3.53,Computer Science,TU Darmstadt,Bachelors,0,4,no,yes,Ukraine,2,22,8577,1,3,Non-profit,no,45211,0.052,0.133,2
+TVSTU0450,studying,36,0.41,3.0,Business Analytics,TU Darmstadt,Bachelors,3,3,yes,yes,Ukraine,2,31,7009,4,2,Manufacturing,yes,38831,0.032,0.127,1
+TVSTU0451,studying,60,0.23,3.18,Business Analytics,TU Darmstadt,Masters,2,3,no,no,Romania,4,25,13413,2,5,Manufacturing,yes,37344,0.036,0.107,3
+TVSTU0452,working,48,0.82,3.01,Business Analytics,TU Berlin,Bachelors,4,3,yes,yes,Ukraine,2,27,2058,5,1,Industry,no,37386,0.023,0.1,5
+TVSTU0453,working,48,0.16,2.64,Data Science,TU Berlin,Masters,4,2,no,yes,Ukraine,3,21,18282,1,4,Academia,no,27601,0.03,0.107,5
+TVSTU0454,working,36,0.52,2.91,Data Science,TU Darmstadt,Bachelors,0,3,no,no,Ukraine,2,32,9089,2,3,Manufacturing,no,37974,0.031,0.12,3
+TVSTU0455,studying,48,0.85,3.44,Data Science,TU Aachen,Masters,2,5,no,no,Romania,5,21,9969,5,1,Startup,no,43095,0.036,0.1,5
+TVSTU0456,studying,48,0.06,2.66,Computer Science,TU Darmstadt,Masters,4,4,no,yes,Romania,4,32,17749,3,2,Automobile,no,36838,0.036,0.133,1
+TVSTU0457,working,48,0.15,3.22,Business Analytics,TU München,Bachelors,2,4,no,yes,Ukraine,4,24,17644,4,3,Tech,yes,41409,0.025,0.093,5
+TVSTU0458,working,60,0.67,3.32,IT,TU Berlin,Bachelors,3,3,no,yes,Ukraine,3,30,18366,5,4,Non-profit,no,39043,0.049,0.087,4
+TVSTU0459,studying,48,0.76,3.4,IT,TU Darmstadt,Bachelors,2,4,yes,yes,Romania,1,32,15928,3,1,Automobile,yes,41358,0.057,0.14,1
+TVSTU0460,working,36,0.58,3.37,IT,TU Berlin,Masters,1,4,yes,yes,Romania,1,31,13077,2,2,Startup,no,40163,0.02,0.127,3
+TVSTU0461,studying,60,0.51,3.6,IT,TU Aachen,Bachelors,3,4,no,yes,Romania,5,30,7862,1,3,Government,no,46209,0.048,0.12,4
+TVSTU0462,studying,36,0.93,2.39,Computer Science,TU Darmstadt,Bachelors,0,2,yes,yes,Romania,2,24,11279,2,2,Industry,no,27759,0.034,0.12,4
+TVSTU0463,studying,48,0.17,2.89,Business Analytics,TU Aachen,Masters,3,2,no,no,Romania,5,21,3321,5,3,Tech,no,32277,0.043,0.093,4
+TVSTU0464,studying,60,0.32,3.1,IT,TU München,Bachelors,2,4,no,yes,Romania,4,31,9702,4,4,Tech,no,38410,0.038,0.1,3
+TVSTU0465,working,36,0.79,2.78,Business Analytics,TU Aachen,Masters,1,3,yes,yes,Romania,3,30,4390,3,3,Non-profit,yes,35230,0.023,0.127,1
+TVSTU0466,dropout,60,0.02,3.01,Computer Science,TU Darmstadt,Bachelors,3,2,yes,yes,Romania,4,23,14753,4,3,Industry,no,34067,0.038,0.093,5
+TVSTU0467,studying,48,0.82,2.37,IT,TU Berlin,Bachelors,2,3,no,yes,Ukraine,2,23,13723,4,3,Manufacturing,no,28343,0.045,0.113,2
+TVSTU0468,studying,36,0.5,3.4,Business Analytics,TU Berlin,Masters,4,3,yes,no,Romania,2,30,18894,4,3,Government,yes,41583,0.043,0.093,5
+TVSTU0469,studying,36,0.69,2.79,Business Analytics,TU München,Masters,4,4,yes,yes,Ukraine,1,31,8940,2,5,Government,no,33634,0.056,0.1,4
+TVSTU0470,studying,48,0.51,3.17,IT,TU Darmstadt,Masters,0,2,no,yes,Romania,1,22,15019,2,1,Academia,no,37388,0.041,0.127,4
+TVSTU0471,working,48,0.51,3.61,Data Science,TU Darmstadt,Masters,1,5,yes,yes,Ukraine,4,20,3383,4,2,Industry,yes,45825,0.021,0.127,1
+TVSTU0472,studying,60,0.26,2.44,Data Science,TU Darmstadt,Bachelors,0,4,no,no,Ukraine,1,20,2831,5,3,Academia,no,33930,0.052,0.113,1
+TVSTU0473,studying,36,0.96,3.04,IT,TU Darmstadt,Masters,3,3,yes,no,Romania,1,21,39,1,1,Automobile,no,36180,0.023,0.15,1
+TVSTU0474,dropout,48,0.01,2.51,Data Science,TU Berlin,Bachelors,2,2,yes,no,Ukraine,3,23,16594,5,5,Government,no,29153,0.034,0.1,1
+TVSTU0475,studying,48,0.69,2.64,Data Science,TU Darmstadt,Masters,1,4,no,yes,Romania,5,30,7010,4,2,Manufacturing,yes,36132,0.06,0.12,2
+TVSTU0476,studying,60,0.24,3.41,Computer Science,TU Aachen,Bachelors,1,4,no,no,Ukraine,1,22,6078,2,3,Government,yes,41220,0.056,0.113,4
+TVSTU0477,dropout,36,0.25,3.29,IT,TU Aachen,Masters,0,4,yes,yes,Ukraine,4,31,18455,2,3,Consulting,no,43405,0.044,0.12,3
+TVSTU0478,studying,48,0.04,2.52,IT,TU Aachen,Bachelors,0,4,yes,no,Romania,2,20,14145,4,4,Manufacturing,yes,30795,0.042,0.093,4
+TVSTU0479,working,60,0.54,2.91,Data Science,TU Berlin,Bachelors,3,2,yes,no,Ukraine,1,22,7420,2,1,Tech,no,33912,0.029,0.133,3
+TVSTU0480,studying,48,0.86,2.51,Computer Science,TU Berlin,Bachelors,0,2,no,no,Romania,1,29,17726,1,4,Startup,no,28241,0.051,0.107,5
+TVSTU0481,working,48,0.64,2.33,IT,TU Berlin,Masters,0,3,no,no,Romania,3,23,15066,1,5,Industry,yes,26866,0.027,0.127,1
+TVSTU0482,studying,36,0.81,2.47,Data Science,TU Darmstadt,Bachelors,4,2,no,no,Romania,2,25,8915,4,1,Academia,no,27399,0.023,0.127,2
+TVSTU0483,studying,60,0.42,2.57,Computer Science,TU Aachen,Masters,2,3,no,no,Romania,2,24,9575,1,5,Industry,yes,33987,0.029,0.127,1
+TVSTU0484,studying,36,0.89,2.35,Data Science,TU Aachen,Bachelors,1,1,yes,no,Romania,2,20,9150,4,3,Manufacturing,yes,24810,0.042,0.093,5
+TVSTU0485,dropout,36,0.13,2.81,Business Analytics,TU Aachen,Bachelors,1,3,no,yes,Romania,4,27,1118,3,4,Finance,no,31669,0.038,0.107,3
+TVSTU0486,working,36,0.57,2.78,Business Analytics,TU Berlin,Masters,1,4,yes,no,Romania,1,30,12909,5,5,Industry,no,33638,0.053,0.073,5
+TVSTU0487,studying,48,0.18,3.14,IT,TU Aachen,Bachelors,0,4,no,yes,Ukraine,3,31,7697,4,3,Automobile,no,36924,0.044,0.113,2
+TVSTU0488,working,48,0.15,2.74,Business Analytics,TU Aachen,Bachelors,2,2,yes,yes,Ukraine,1,24,4326,3,1,Non-profit,no,31344,0.043,0.127,3
+TVSTU0489,studying,48,0.73,3.42,IT,TU Berlin,Bachelors,4,5,yes,yes,Ukraine,4,31,8119,4,3,Tech,yes,42754,0.049,0.107,3
+TVSTU0490,studying,60,0.23,3.0,Data Science,TU Darmstadt,Masters,0,4,no,no,Romania,2,30,8396,2,2,Non-profit,yes,35221,0.047,0.113,5
+TVSTU0491,studying,36,0.55,3.14,Computer Science,TU Berlin,Masters,0,3,no,yes,Ukraine,2,29,17443,1,5,Government,no,39690,0.028,0.12,2
+TVSTU0492,studying,60,0.58,2.33,Data Science,TU München,Masters,2,2,no,yes,Ukraine,3,25,15104,1,1,Startup,yes,28318,0.034,0.14,3
+TVSTU0493,studying,48,0.77,3.16,Business Analytics,TU München,Masters,2,2,no,no,Ukraine,1,21,178,1,3,Government,no,34306,0.031,0.113,5
+TVSTU0494,studying,48,0.6,2.65,Data Science,TU Berlin,Masters,2,3,no,no,Romania,1,30,5625,3,1,Automobile,no,35436,0.042,0.127,3
+TVSTU0495,working,36,0.19,2.96,IT,TU Berlin,Masters,0,2,yes,yes,Ukraine,1,20,14299,2,4,Automobile,no,35861,0.036,0.107,4
+TVSTU0496,studying,48,0.49,3.38,IT,TU München,Bachelors,3,3,no,no,Romania,2,24,4192,4,1,Startup,yes,41975,0.054,0.133,1
+TVSTU0497,working,48,0.89,3.02,Business Analytics,TU München,Masters,4,4,no,yes,Romania,3,20,7775,5,3,Non-profit,yes,40029,0.034,0.107,2
+TVSTU0498,dropout,48,0.33,2.92,Data Science,TU München,Bachelors,1,2,no,yes,Romania,3,20,2152,3,4,Academia,yes,33305,0.022,0.1,4
+TVSTU0499,working,60,0.34,3.11,Computer Science,TU Darmstadt,Bachelors,1,3,no,no,Ukraine,1,29,11629,2,2,Automobile,no,37778,0.048,0.113,5
+TVSTU0500,working,48,0.33,3.1,IT,TU München,Bachelors,1,4,no,yes,Romania,2,29,7263,4,4,Academia,no,37033,0.038,0.107,2
