@@ -134,8 +134,8 @@ streamlit run app.py
 ---
 
 ## MVP Demo Video
-
-(https://drive.google.com/drive/u/0/folders/1lLRTIlLR1c11MVrKoXgqKVFiXFrml0Db)
+Video: https://drive.google.com/file/d/1TgwYixqvp8guzAwtrgo5lWFDLrGSg-SO/view?usp=sharing 
+Folder: (https://drive.google.com/drive/u/0/folders/1lLRTIlLR1c11MVrKoXgqKVFiXFrml0Db)
 
 ---
 
